@@ -3,10 +3,10 @@
   "store_id": "doliopi-appstore",
   "name": {
     "en_US": "doliopi AppStore",
-    "zh_CN": "doliopi 应用商店",  },
+    "zh_CN": "doliopi 应用商店" },
   "description": {
     "en_US": "Test.",
-    "zh_CN": "测试用。",
+    "zh_CN": "测试用。"
   },
   "maintainer": "Doliopi",
   "url": "https://github.com/Doliopi/CasaOS-AppStore"
