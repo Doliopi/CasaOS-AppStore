@@ -1,0 +1,36 @@
+{
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "author": "ZimaOS Team",
+  "category": "Media",
+  "description": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device.",
+  "developer": "Emby Team",
+  "screenshot_link": [
+    "/apps/org.icewhale.embynvidia/assets/screenshot-1.webp",
+    "/apps/org.icewhale.embynvidia/assets/screenshot-2.webp",
+    "/apps/org.icewhale.embynvidia/assets/screenshot-3.webp"
+  ],
+  "tagline": "TAKE YOUR MEDIA ANYWHERE WITH EMBY",
+  "thumbnail": "/apps/org.icewhale.embynvidia/assets/thumbnail.webp",
+  "tips": {},
+  "update_at": "2026-05-26",
+  "website": "https://emby.media/",
+  "repo": "https://hub.docker.com/r/emby/embyserver",
+  "support": "https://emby.media/community/",
+  "docs": "https://support.emby.media/support/",
+  "title": "Emby(Nvidia GPU)",
+  "release_note": "- Emby Server 4.9.5 improves library scanning, Live TV guide refresh, and database performance.\n- The release updates to .NET 8 and sqlite 3.49.2, and adds maintenance mode and network request protocol options.",
+  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "id": "org.icewhale.embynvidia",
+  "version": "4.9.5",
+  "categories": [
+    "media"
+  ],
+  "min_memory": 536870912,
+  "min_image_size": {
+    "amd64": 294421953,
+    "arm64": 146153278
+  }
+}
