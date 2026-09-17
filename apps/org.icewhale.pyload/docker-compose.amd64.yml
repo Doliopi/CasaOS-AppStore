@@ -2,7 +2,7 @@ name: pyload
 services:
   pyload:
     container_name: pyload
-    image: linuxserver/pyload-ng:0.5.0
+    image: linuxserver/pyload-ng:0.5.0@sha256:5d1e31737794449fd2012b47bba477805dc8e59194b2b95d3a104e849fb29c42
     deploy:
       resources:
         reservations:

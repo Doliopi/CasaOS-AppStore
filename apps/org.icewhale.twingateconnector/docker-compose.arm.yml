@@ -1,7 +1,7 @@
 name: twingate-connector
 services:
   twingate-connector:
-    image: twingate/connector:1
+    image: twingate/connector:1@sha256:e790aeeb7634fa4d0592c5527cc25df8dbfed0a1233f3c78206d72b35075398e
     container_name: twingate-connector
     command:
       - /connectord
