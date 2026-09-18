@@ -20,13 +20,13 @@
   "release_note": "- v4.5.4 fixes temperature thresholds, negative memory values, Docker container counts through Home Assistant, and LXD container filtering.\n- It adds Rockchip MPP monitoring, clamps LXC memory values, and improves single-core Rockchip NPU parsing and device naming.\n- Security fixes cover SSRF in the IP plugin, unauthenticated REST API information disclosure, and Cassandra CQL injection.",
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "id": "org.icewhale.glances",
-  "version": "4.5.4",
+  "version": "4.5.6",
   "categories": [
     "productivity"
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 43501264,
-    "arm64": 43422926
+    "amd64": 45160063,
+    "arm64": 45080128
   }
 }
