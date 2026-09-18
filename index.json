@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-17T20:41:53Z",
+  "updated_at": "2026-09-18T02:29:20Z",
   "app_count": 178,
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "apps": [
@@ -888,8 +888,8 @@
       "thumbnail": "",
       "compose_url": "/apps/org.icewhale.embystat/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.embystat/meta.json",
-      "content_hash": "bc888012",
-      "version": "0.2.0"
+      "content_hash": "76626c66",
+      "version": "0.3.0"
     },
     {
       "id": "org.icewhale.emulatorjs",

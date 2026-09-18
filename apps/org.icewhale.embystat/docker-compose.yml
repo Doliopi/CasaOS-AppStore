@@ -5,7 +5,7 @@ services:
       PGID: "1000"
       PUID: "1000"
       TZ: Europe/London
-    image: linuxserver/embystat:0.2.0
+    image: linuxserver/embystat:latest
     deploy:
       resources:
         reservations:
@@ -28,4 +28,4 @@ x-casaos:
   title:
     en_US: Embystat
   port_map: "6555"
-  version: "0.2.0"
+  version: "0.3.0"
