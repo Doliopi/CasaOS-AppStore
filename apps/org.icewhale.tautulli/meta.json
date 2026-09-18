@@ -25,13 +25,13 @@
   "release_note": "- Tautulli 2.17.1 fixes Tautulli Remote App notification sending and folder path browsing errors.\n- Fixes CVE-2026-41065 in newsletter custom template directory handling.\n- Adds Simkl URL notification parameters and AV1 and Opus media flag images.",
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "id": "org.icewhale.tautulli",
-  "version": "2.17.1",
+  "version": "2.17.2",
   "categories": [
     "media"
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 57574941,
-    "arm64": 58406078
+    "amd64": 58352340,
+    "arm64": 59243759
   }
 }

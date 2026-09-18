@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-18T08:54:25Z",
+  "updated_at": "2026-09-18T11:57:17Z",
   "app_count": 178,
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "apps": [
@@ -1877,8 +1877,8 @@
       "thumbnail": "",
       "compose_url": "/apps/org.icewhale.lyrionmusicserver/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.lyrionmusicserver/meta.json",
-      "content_hash": "96ce6e8d",
-      "version": "9.1.1"
+      "content_hash": "f97e249e",
+      "version": "9.1.2"
     },
     {
       "id": "org.icewhale.mariadb",
@@ -3381,8 +3381,8 @@
       "thumbnail": "/apps/org.icewhale.tautulli/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.tautulli/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.tautulli/meta.json",
-      "content_hash": "8cb315e9",
-      "version": "2.17.1"
+      "content_hash": "16a87f2b",
+      "version": "2.17.2"
     },
     {
       "id": "org.icewhale.teable",
