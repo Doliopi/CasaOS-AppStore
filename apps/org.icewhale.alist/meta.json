@@ -29,14 +29,14 @@
   "release_note": "- v3.40.0 adds cryptographic random string generation for security and OAuth state generation/verification for SSO.\n- Fixes include Baidu Netdisk timestamps, local file owner preservation, closing closed channels, PikPak captcha_sign errors, and OIDC compatibility mode.",
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "id": "org.icewhale.alist",
-  "version": "3.40.0",
+  "version": "3.41.0",
   "categories": [
     "productivity"
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 37728905,
-    "arm": 34436336,
-    "arm64": 37140582
+    "amd64": 37938059,
+    "arm": 34635120,
+    "arm64": 37228644
   }
 }

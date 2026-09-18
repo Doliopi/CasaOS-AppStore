@@ -1,7 +1,7 @@
 name: alist
 services:
   alist:
-    image: xhofe/alist:v3.40.0@sha256:800a9170f8bdf0814a075b15310bb88952adea58ed85a1508da5c120e4bd5716
+    image: xhofe/alist:v3.41.0@sha256:03346e12b9c55f9771a46d8199d386bd2db764477ad9070d10515afd1e346686
     deploy:
       resources:
         reservations:
@@ -25,4 +25,4 @@ x-casaos:
   scheme: http
   title:
     en_US: Alist
-  version: "3.40.0"
+  version: "3.41.0"
