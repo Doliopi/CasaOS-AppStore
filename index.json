@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-18T07:28:05Z",
+  "updated_at": "2026-09-18T08:30:05Z",
   "app_count": 178,
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "apps": [
@@ -1163,8 +1163,8 @@
       "thumbnail": "/apps/org.icewhale.gitea/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.gitea/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.gitea/meta.json",
-      "content_hash": "4d2a1e3c",
-      "version": "1.26.2"
+      "content_hash": "06e82446",
+      "version": "1.27.1"
     },
     {
       "id": "org.icewhale.glances",
