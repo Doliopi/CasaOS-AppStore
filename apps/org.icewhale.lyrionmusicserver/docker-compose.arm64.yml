@@ -1,7 +1,7 @@
 name: lyrionmusicserver
 services:
   lyrionmusicserver:
-    image: lmscommunity/lyrionmusicserver:9.1.2@sha256:c1ae8c7f8725ed86208d1a371f5e9bb40b766ce89ff6abcc86f17a60e500343d
+    image: lmscommunity/lyrionmusicserver:9.2.0@sha256:791ef662451450824c64258c2404318ac8d41bf45519ac4c1af81144367be8d2
     container_name: lyrionmusicserver
     deploy:
       resources:
@@ -52,4 +52,4 @@ x-casaos:
   index: /
   title:
     en_US: LyrionMusicServer
-  version: "9.1.2"
+  version: "9.1.11"
