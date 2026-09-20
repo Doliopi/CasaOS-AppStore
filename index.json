@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-20T06:19:52Z",
+  "updated_at": "2026-09-20T06:31:57Z",
   "app_count": 178,
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "apps": [
@@ -951,8 +951,8 @@
       "thumbnail": "/apps/org.icewhale.etherpad/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.etherpad/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.etherpad/meta.json",
-      "content_hash": "f5c9e07e",
-      "version": "3.1.1"
+      "content_hash": "045fadfa",
+      "version": "3.1.2"
     },
     {
       "id": "org.icewhale.excalidraw",
