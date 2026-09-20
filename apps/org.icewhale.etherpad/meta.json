@@ -26,13 +26,13 @@
   "release_note": "- Etherpad v3.1.0 adds Tier 4 autonomous self-updates with maintenance windows, preflight checks, and email notifications for failures and rollbacks.\n- It also introduces real SMTP delivery for updater mail and includes API, export, and HTTP security hardening plus localisation updates.",
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "id": "org.icewhale.etherpad",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "categories": [
     "productivity"
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 133689009,
-    "arm64": 134626062
+    "amd64": 256068835,
+    "arm64": 252265132
   }
 }
