@@ -1,7 +1,7 @@
 name: netbird
 services:
   netbird:
-    image: netbirdio/netbird:0.76.0
+    image: netbirdio/netbird:0.62.3
     container_name: netbird
     network_mode: host
     restart: unless-stopped
@@ -14,19 +14,15 @@ services:
         reservations:
           memory: 128M
     environment:
-      NB_SETUP_KEY: "22"
-      NB_MANAGEMENT_URL: "33"
+      NB_SETUP_KEY: ""
+      NB_MANAGEMENT_URL: ""
       NB_HOSTNAME: "Zima"
       NB_ENABLE_SSH_ROOT: "true"
       NB_ALLOW_SERVER_SSH: "true"
-      NB_ALLOW_SERVER_SSH1: "true"
     volumes:
       - type: bind
         source: /DATA/AppData/$AppID
         target: /var/lib/netbird
-      - type: bind
-        source: /DATA/5
-        target: /var/5
 x-casaos:
   id: org.icewhale.netbird
   main: netbird
@@ -36,4 +32,4 @@ x-casaos:
   index: /
   title:
     en_US: NetBird
-  version: "0.76.0"
+  version: "0.62.3"

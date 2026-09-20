@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-20T06:31:57Z",
+  "updated_at": "2026-09-20T08:18:32Z",
   "app_count": 178,
   "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
   "apps": [
@@ -239,8 +239,8 @@
       "thumbnail": "/apps/org.icewhale.alist/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.alist/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.alist/meta.json",
-      "content_hash": "e0a319b6",
-      "version": "3.41.0"
+      "content_hash": "e044c8b7",
+      "version": "3.40.0"
     },
     {
       "id": "org.icewhale.alistsync",
@@ -888,8 +888,8 @@
       "thumbnail": "",
       "compose_url": "/apps/org.icewhale.embystat/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.embystat/meta.json",
-      "content_hash": "8bb50d48",
-      "version": "0.3.0"
+      "content_hash": "bf63d436",
+      "version": "0.2.0"
     },
     {
       "id": "org.icewhale.emulatorjs",
@@ -951,8 +951,8 @@
       "thumbnail": "/apps/org.icewhale.etherpad/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.etherpad/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.etherpad/meta.json",
-      "content_hash": "045fadfa",
-      "version": "3.1.2"
+      "content_hash": "bd2bc4b2",
+      "version": "3.1.0"
     },
     {
       "id": "org.icewhale.excalidraw",
@@ -1163,8 +1163,8 @@
       "thumbnail": "/apps/org.icewhale.gitea/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.gitea/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.gitea/meta.json",
-      "content_hash": "21efced4",
-      "version": "1.27.3"
+      "content_hash": "80c446da",
+      "version": "1.26.2"
     },
     {
       "id": "org.icewhale.glances",
@@ -1184,8 +1184,8 @@
       "thumbnail": "",
       "compose_url": "/apps/org.icewhale.glances/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.glances/meta.json",
-      "content_hash": "493a7922",
-      "version": "4.5.6"
+      "content_hash": "416926d1",
+      "version": "4.5.4"
     },
     {
       "id": "org.icewhale.gopeed",
@@ -1877,8 +1877,8 @@
       "thumbnail": "",
       "compose_url": "/apps/org.icewhale.lyrionmusicserver/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.lyrionmusicserver/meta.json",
-      "content_hash": "ea94e2e8",
-      "version": "9.1.11"
+      "content_hash": "96ce6e8d",
+      "version": "9.1.1"
     },
     {
       "id": "org.icewhale.mariadb",
@@ -2173,8 +2173,8 @@
       "thumbnail": "/apps/org.icewhale.netbird/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.netbird/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.netbird/meta.json",
-      "content_hash": "6e6de0c0",
-      "version": "0.76.0"
+      "content_hash": "d1b2b2b1",
+      "version": "0.62.3"
     },
     {
       "id": "org.icewhale.netdata",
@@ -2306,8 +2306,8 @@
       "thumbnail": "/apps/org.icewhale.nzbget/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.nzbget/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.nzbget/meta.json",
-      "content_hash": "996875f2",
-      "version": "26.1.20260911"
+      "content_hash": "420675e3",
+      "version": "26.1.20260522"
     },
     {
       "id": "org.icewhale.obsidian",
@@ -2474,8 +2474,8 @@
       "thumbnail": "/apps/org.icewhale.openlist/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.openlist/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.openlist/meta.json",
-      "content_hash": "6c9f82ae",
-      "version": "4.2.3"
+      "content_hash": "506e3ae8",
+      "version": "4.2.2"
     },
     {
       "id": "org.icewhale.openspeedtest",
@@ -3381,8 +3381,8 @@
       "thumbnail": "/apps/org.icewhale.tautulli/assets/thumbnail.webp",
       "compose_url": "/apps/org.icewhale.tautulli/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.tautulli/meta.json",
-      "content_hash": "16a87f2b",
-      "version": "2.17.2"
+      "content_hash": "8cb315e9",
+      "version": "2.17.1"
     },
     {
       "id": "org.icewhale.teable",

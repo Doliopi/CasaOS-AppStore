@@ -2,7 +2,7 @@ name: glances
 services:
   glances:
     container_name: glances
-    image: nicolargo/glances:4.5.6
+    image: nicolargo/glances:4.5.4
     pid: host
     deploy:
       resources:
@@ -10,7 +10,6 @@ services:
           memory: "256M"
     environment:
       GLANCES_OPT: -w
-      po: PO
     restart: unless-stopped
     network_mode: bridge
     privileged: false
@@ -21,18 +20,12 @@ services:
       - type: bind
         source: /mnt
         target: /mnt
-      - type: bind
-        source: /DATA
-        target: /4nt
     ports:
       - target: 61208
         published: "61208"
         protocol: tcp
       - target: 61209
         published: "61209"
-        protocol: tcp
-      - target: 51209
-        published: "51209"
         protocol: tcp
 
 x-casaos:
@@ -45,4 +38,4 @@ x-casaos:
     pt_BR: Glances
   index: /
   port_map: "61208"
-  version: "4.5.6"
+  version: "4.5.4"

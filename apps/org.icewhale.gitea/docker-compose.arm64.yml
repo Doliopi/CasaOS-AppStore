@@ -4,7 +4,7 @@ services:
     environment:
       USER_GID: "1000"
       USER_UID: "1000"
-    image: gitea/gitea:1.27.3@sha256:9b107dff838b4518f720aae53033fc712019a1680267ea45944b858a71b487b5
+    image: gitea/gitea:1.26.2@sha256:7bae791181c231e42f32aa7ff2890454946c70a1438645882a3e4f6c98c2ad5f
     deploy:
       resources:
         reservations:
@@ -31,4 +31,4 @@ x-casaos:
     en_US: Gitea
   index: /
   port_map: "3002"
-  version: "1.27.3"
+  version: "1.26.2"
