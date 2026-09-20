@@ -36,7 +36,7 @@ getmeili/meilisearch:v1.41.0 sha256:d84b081420b2e5899f5acc3745e1d6510950430fef3e
 ghcr.io/advplyr/audiobookshelf:2.35.0 sha256:501b8add626d0641229782e0e7f5382a0b126a6508eecdd344789406c24521b8
 ghcr.io/alam00000/bentopdf-simple:2.8.8 sha256:598efc25622c92e59e6e4557fbdbd5ce34e1f77b74a557eed7eb9ab4bc70a436
 ghcr.io/all-hands-ai/openhands:0.59 sha256:f5ff4fd19711fee82bdc91b4367d1e7986c88be754b82e2a946cc0a85434562a
-ghcr.io/autobrr/autobrr:v1.79.0 sha256:031d48609b479ce0f81555b8f4f65cb0e25d3f34fc7591a68aa3ba85d64486a8
+ghcr.io/autobrr/autobrr:v1.80.0 sha256:097499b094c570f17fd7d152b8502e88b9047a764d26670b2128a263a8a0931c
 ghcr.io/autobrr/netronome:v0.13.0 sha256:22497d1597541bbeac6a635a01918b90d93c5e98d0b2587c37a5205b182cac94
 ghcr.io/autobrr/qui:v1.28.0 sha256:4fb16ab557ff9a3de04d0597033207fc0de065d348eaf1732ec26f5bb1d877d2
 ghcr.io/blakeblackshear/frigate:0.17.2 sha256:06e48c72f5af2887eafff09a4c53e8df9238827ae9e8df811cbdeaab1c7a4330
