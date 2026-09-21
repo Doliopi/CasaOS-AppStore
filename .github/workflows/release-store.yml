@@ -13,7 +13,7 @@ on:
       base_url:
         description: "Base URL used by the build action"
         required: false
-        default: "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages"
+        default: "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages"
       purge_only:
         description: "Refresh jsDelivr paths from the latest gh-pages deployment without rebuilding"
         required: false
