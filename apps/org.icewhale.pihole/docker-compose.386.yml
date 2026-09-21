@@ -5,8 +5,7 @@ services:
       TZ: $TZ
       FTLCONF_webserver_api_password: casaos
       FTLCONF_dns_listeningMode: all
-      oop: oo
-    image: pihole/pihole:2026.07.1@sha256:2fc68cfbbfe51f0d38674843eb2c85dd16affb149b72fb0beb560c72e06ad66a
+    image: pihole/pihole:2026.05.0@sha256:6608b76bf708270431a670260f77a6a6ff78aaade0aa4e138b694ec7bb39ba39
     deploy:
       resources:
         reservations:
@@ -17,7 +16,7 @@ services:
         published: "8800"
         protocol: tcp
       - target: 53
-        published: "113"
+        published: "53"
         protocol: tcp
       - target: 53
         published: "53"
@@ -25,17 +24,11 @@ services:
       - target: 443
         published: "8443"
         protocol: tcp
-      - target: 5443
-        published: "18443"
-        protocol: tcp
     restart: unless-stopped
     volumes:
       - type: bind
         source: /DATA/AppData/$AppID/etc/pihole/
-        target: /etc/pihol
-      - type: bind
-        source: /DATA/343
-        target: /etc
+        target: /etc/pihole
     cap_add:
       - NET_ADMIN
     container_name: pihole
@@ -47,4 +40,4 @@ x-casaos:
     en_US: Pi-hole
   index: /admin
   port_map: "8800"
-  version: "2026.7.1"
+  version: "2026.5.0"

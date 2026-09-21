@@ -2,7 +2,7 @@ name: autobrr
 services:
   autobrr:
     container_name: autobrr
-    image: ghcr.io/autobrr/autobrr:v1.80.0@sha256:097499b094c570f17fd7d152b8502e88b9047a764d26670b2128a263a8a0931c
+    image: ghcr.io/autobrr/autobrr:v1.79.0@sha256:031d48609b479ce0f81555b8f4f65cb0e25d3f34fc7591a68aa3ba85d64486a8
     network_mode: bridge
     restart: unless-stopped
     environment:
@@ -22,4 +22,4 @@ x-casaos:
   title:
     en_US: Autobrr
   icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.autobrr/assets/icon.svg
-  version: "1.80.0"
+  version: "1.79.0"
