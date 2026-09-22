@@ -4,9 +4,9 @@ services:
     environment:
       TZ: 444
       FTLCONF_webserver_api_password: 444
-      FTLCONF_dns_listeningMode: all
       gfv: ff
-    image: pihole/pihole:2026.07.0@sha256:48a912c50aae8705987ef6e041a0a5bf6be59b904b0d8572c163ee3f9575f0ca
+      aa: aa
+    image: pihole/pihole:2026.07.1@sha256:45cf4d2f581a9bc9d3d4d89b3b88f23a601289644807dd99367566b7bb4cebd0
     deploy:
       resources:
         reservations:
@@ -14,16 +14,16 @@ services:
     network_mode: bridge
     ports:
       - target: 80
-        published: "8800"
+        published: "8806"
         protocol: tcp
       - target: 53
         published: "7545"
         protocol: tcp
-      - target: 466
-        published: "53"
-        protocol: udp
       - target: 443
         published: "8443"
+        protocol: tcp
+      - target: 41143
+        published: "6443"
         protocol: tcp
     restart: unless-stopped
     volumes:
@@ -33,6 +33,9 @@ services:
       - type: bind
         source: /DATA/ccccc
         target: /ccccc
+      - type: bind
+        source: /DATA/zzz
+        target: /zzzz
     cap_add:
       - NET_ADMIN
     container_name: pihole
@@ -44,4 +47,4 @@ x-casaos:
     en_US: Pi-hole
   index: /admin
   port_map: "8800"
-  version: "2026.7.0"
+  version: "2026.7.1"
