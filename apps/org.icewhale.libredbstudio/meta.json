@@ -21,7 +21,7 @@
   "docs": "https://github.com/libredb/libredb-studio/tree/main/docs",
   "title": "LibreDB Studio",
   "release_note": "- Updates LibreDB Studio to 0.15.0.\n- CREATE TABLE now emits the DDL of the engine it is aimed at instead of PostgreSQL's, so the generated statement runs where it was generated.\n- A database size the server declines to report is shown as absent instead of 0 bytes on MySQL, PostgreSQL, SQL Server and Oracle.\n- No environment variable, port or volume changed, so existing installs need no reconfiguration.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.libredbstudio",
   "version": "0.15.0",
   "categories": [

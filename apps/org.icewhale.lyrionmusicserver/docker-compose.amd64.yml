@@ -46,7 +46,7 @@ services:
 x-casaos:
   id: org.icewhale.lyrionmusicserver
   main: lyrionmusicserver
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.lyrionmusicserver/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.lyrionmusicserver/assets/icon.svg
   scheme: http
   port_map: "9000"
   index: /

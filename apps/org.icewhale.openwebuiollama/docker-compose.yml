@@ -29,7 +29,7 @@ services:
 x-casaos:
   id: org.icewhale.openwebuiollama
   main: open-webui-ollama
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.openwebuiollama/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.openwebuiollama/assets/icon.svg
   scheme: http
   title:
     en_US: Open WebUI

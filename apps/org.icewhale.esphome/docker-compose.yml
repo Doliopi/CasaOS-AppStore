@@ -23,7 +23,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.esphome
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.esphome/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.esphome/assets/icon.svg
   index: /
   main: esphome
   port_map: "6052"

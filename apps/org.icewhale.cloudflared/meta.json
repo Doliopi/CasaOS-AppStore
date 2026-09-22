@@ -22,7 +22,7 @@
   "docs": "https://github.com/WisdomSky/Cloudflared-web#readme",
   "title": "Cloudflared",
   "release_note": "- The 2026.5.0 wrapper image updates the bundled cloudflared release line and was published on Docker Hub on 2026-05-16.\n- Upstream cloudflared 2026.5.0 publishes checksummed packages for supported platforms, including Linux amd64, arm, and arm64 builds.\n- Host networking and the token configuration volume stay unchanged.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.cloudflared",
   "version": "2026.5.0",
   "categories": [

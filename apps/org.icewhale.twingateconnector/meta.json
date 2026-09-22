@@ -20,7 +20,7 @@
   "docs": "https://www.twingate.com/docs/connectors",
   "title": "Twingate",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.twingateconnector",
   "version": "1.0.0",
   "categories": [

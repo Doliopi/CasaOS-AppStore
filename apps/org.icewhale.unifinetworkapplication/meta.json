@@ -23,7 +23,7 @@
   "docs": "https://docs.linuxserver.io/images/docker-unifi-network-application/#ports-p",
   "title": "Unifi Network Application",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.unifinetworkapplication",
   "version": "10.4.57-ls133",
   "categories": [

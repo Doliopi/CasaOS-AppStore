@@ -24,7 +24,7 @@
   "docs": "https://github.com/swing-opensource/swingmusic#readme",
   "title": "Swing Music",
   "release_note": "- v2.1.4 patches a path traversal vulnerability in the directory browser endpoint.\n- Bug fixes cover Last.fm scrobbles being saved to user id 1, unsetting the admin role, a Windows startup crash, default artist split ignore rules, and album soundtrack classification.\n- The ghcr.io/swingmx/swingmusic:v2.1.4 Docker image tag exists, and the upstream release was published on 2026-01-18.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.swingmusic",
   "version": "2.1.4",
   "categories": [

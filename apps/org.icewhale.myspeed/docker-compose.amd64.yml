@@ -21,7 +21,7 @@ services:
 x-casaos:
   id: org.icewhale.myspeed
   main: myspeed
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.myspeed/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.myspeed/assets/icon.svg
   title:
     en_US: MySpeed
     pt_BR: MySpeed

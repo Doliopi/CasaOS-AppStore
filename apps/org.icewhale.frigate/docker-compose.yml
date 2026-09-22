@@ -46,7 +46,7 @@ services:
 x-casaos:
   id: org.icewhale.frigate
   main: frigate
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.frigate/assets/icon.png
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.frigate/assets/icon.png
   title:
     en_US: Frigate
     zh_CN: Frigate

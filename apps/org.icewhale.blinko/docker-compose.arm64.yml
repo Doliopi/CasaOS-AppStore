@@ -69,7 +69,7 @@ x-casaos:
   title:
     en_GB: Blinko
     en_US: Blinko
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.blinko/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.blinko/assets/icon.svg
   main: blinko
   port_map: "1111"
   index: /

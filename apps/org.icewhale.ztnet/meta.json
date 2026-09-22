@@ -27,7 +27,7 @@
   "docs": "https://ztnet.network/installation/docker-compose",
   "title": "ZTnet",
   "release_note": "- v0.7.18 updates dependency packages, including defu 6.1.6.\n- The installer dependencies were also updated.\n- The sinamics/ztnet:0.7.18 Docker image tag was published on 2026-04-04.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.ztnet",
   "version": "0.7.18",
   "categories": [

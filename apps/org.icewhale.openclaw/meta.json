@@ -24,7 +24,7 @@
   "docs": "https://docs.openclaw.ai/",
   "title": "OpenClaw",
   "release_note": "- OpenClaw 2026.5.7 improves release and plugin publishing recovery around transient ClawHub CLI dependency installation failures.\n- Adds an explicit openai/chat-latest direct API-key model override and exposes computed cron status in JSON output.\n- Hardens native command ownership, memory admin checks, inline skill tool authorization, credential resolution, and plugin lifecycle shell handling.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.openclaw",
   "version": "2026.5.7",
   "categories": [

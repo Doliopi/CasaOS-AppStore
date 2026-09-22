@@ -35,5 +35,5 @@ x-casaos:
   port_map: "17869"
   index: /
   scheme: http
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.indextts/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.indextts/assets/icon.svg
   version: "2.0.0"

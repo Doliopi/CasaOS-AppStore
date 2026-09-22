@@ -24,7 +24,7 @@ services:
 x-casaos:
   id: org.icewhale.prowlarr
   main: prowlarr
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.prowlarr/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.prowlarr/assets/icon.svg
   title:
     en_US: Prowlarr
   port_map: "9696"

@@ -24,7 +24,7 @@
   "docs": "https://nzbfast.github.io/nzbfast/MANUAL.html",
   "title": "nzbfast",
   "release_note": "- Posts that hide their real names now land under them, with folder structure intact.\n- Three ways a download could stall for hours are closed.\n- SABnzbd-compatible API answers corrected for nzb360, Sonarr, Radarr and other remotes.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "com.nzbfast.nzbfast",
   "version": "1.3.1",
   "categories": [

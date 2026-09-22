@@ -24,7 +24,7 @@
   "docs": "https://github.com/qbittorrent/qBittorrent/wiki",
   "title": "qBittorrent",
   "release_note": "- release-5.0.4 fixes removing trackers via WebAPI and torrent content checkbox state handling.\n- Peer-list zero/infinity values are hidden only when that setting is Always.\n- Fixes include stopped torrents in the error tracker filter, WebUI context-menu memory leaks, WebAPI string trimming, Windows Qt style handling, and a macOS memory leak.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.qbittorrent",
   "version": "5.0.4",
   "categories": [

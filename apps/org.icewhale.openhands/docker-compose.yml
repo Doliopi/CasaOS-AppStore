@@ -20,7 +20,7 @@ services:
 x-casaos:
   id: org.icewhale.openhands
   main: openhands
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.openhands/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.openhands/assets/icon.svg
   scheme: http
   port_map: "13333"
   index: /

@@ -21,7 +21,7 @@ services:
     restart: unless-stopped
 x-casaos:
   id: org.icewhale.llamafactorynvidia
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.llamafactorynvidia/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.llamafactorynvidia/assets/icon.svg
   title:
     de_DE: LLaMA Factory(Nvidia GPU)
     el_GR: LLaMA Factory(Nvidia GPU)

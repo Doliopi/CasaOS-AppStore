@@ -39,7 +39,7 @@ x-casaos:
     sv_SE: Pingvin-Share
     tr_TR: Pingvin-Share
     zh_CN: Pingvin-Share
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.pingvinshare/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.pingvinshare/assets/icon.svg
   main: pingvin-share
   port_map: "3410"
   index: /

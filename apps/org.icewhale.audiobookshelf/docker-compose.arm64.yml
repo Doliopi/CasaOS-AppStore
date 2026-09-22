@@ -18,7 +18,7 @@ services:
 x-casaos:
   id: org.icewhale.audiobookshelf
   main: audiobookshelf
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.audiobookshelf/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.audiobookshelf/assets/icon.svg
   scheme: http
   port_map: "13378"
   index: /

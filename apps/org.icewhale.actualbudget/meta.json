@@ -26,7 +26,7 @@
   "docs": "https://actualbudget.org/docs",
   "title": "Actual Budget",
   "release_note": "- v26.5.2 is functionally identical to v26.5.1 and was published to resolve Windows Store release packaging.\n- It fixes authentication rate limiting, desktop self-signed certificates, and UUID generation in insecure HTTP contexts.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.actualbudget",
   "version": "26.5.2",
   "categories": [

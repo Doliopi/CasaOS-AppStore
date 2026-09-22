@@ -16,7 +16,7 @@ services:
 x-casaos:
   id: org.icewhale.openspeedtest
   main: openspeedtest
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.openspeedtest/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.openspeedtest/assets/icon.svg
   title:
     en_US: OpenSpeedTest
   index: /

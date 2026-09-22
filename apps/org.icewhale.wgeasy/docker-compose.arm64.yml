@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.wgeasy
   main: wg-easy
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.wgeasy/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.wgeasy/assets/icon.svg
   title:
     en_US: WireGuard Easy
   port_map: '51821'

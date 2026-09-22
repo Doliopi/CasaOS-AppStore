@@ -21,7 +21,7 @@
   "docs": "https://github.com/daya0576/beaverhabits#readme",
   "title": "BeaverHabitTracker",
   "release_note": "- v0.9.1 adds a completion-status page for default and custom status configuration.\n- It adds the TIME_ZONE environment variable to override the browser-detected timezone.\n- It strips HTML from custom CSS to prevent stored XSS and auto-refreshes the habit list when the local date changes.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.beaverhabittracker",
   "version": "0.9.1",
   "categories": [

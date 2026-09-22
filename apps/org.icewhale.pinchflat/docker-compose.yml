@@ -26,7 +26,7 @@ services:
     container_name: pinchflat
 x-casaos:
   id: org.icewhale.pinchflat
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.pinchflat/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.pinchflat/assets/icon.svg
   main: pinchflat
   port_map: "8945"
   scheme: http

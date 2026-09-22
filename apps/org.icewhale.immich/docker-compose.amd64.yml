@@ -75,7 +75,7 @@ networks:
 x-casaos:
   id: org.icewhale.immich
   main: immich-server
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.immich/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.immich/assets/icon.svg
   title:
     en_US: Immich
   port_map: "2283"

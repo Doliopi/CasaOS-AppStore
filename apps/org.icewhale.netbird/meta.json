@@ -25,7 +25,7 @@
   },
   "title": "NetBird",
   "release_note": "- v0.62.3 adds management-side config compatibility checks.\n- The official changelog points to the full v0.62.2...v0.62.3 comparison.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.netbird",
   "version": "0.62.3",
   "categories": [

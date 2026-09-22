@@ -49,7 +49,7 @@ networks:
 x-casaos:
   id: org.icewhale.qui
   main: qui
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.qui/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.qui/assets/icon.svg
   title:
     en_US: Qui
   index: /

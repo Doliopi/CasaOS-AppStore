@@ -24,7 +24,7 @@ services:
 x-casaos:
   id: org.icewhale.memos
   main: memos
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.memos/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.memos/assets/icon.svg
   title:
     en_US: Memos
   port_map: "5230"

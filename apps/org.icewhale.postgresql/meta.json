@@ -20,7 +20,7 @@
   "docs": "https://www.postgresql.org/docs/17/",
   "title": "PostgreSQL",
   "release_note": "- PostgreSQL 17.4 fixes libpq quoting behavior after CVE-2025-1094 so length-limited strings are handled correctly.\n- The release also fixes a pg_createsubscriber memory leak and a Meson build-system header detection issue.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.postgresql",
   "version": "17.4.0",
   "categories": [

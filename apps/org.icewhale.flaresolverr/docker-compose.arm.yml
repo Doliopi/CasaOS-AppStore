@@ -26,7 +26,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.flaresolverr
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.flaresolverr/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.flaresolverr/assets/icon.svg
   index: /
   port_map: "8191"
   scheme: http

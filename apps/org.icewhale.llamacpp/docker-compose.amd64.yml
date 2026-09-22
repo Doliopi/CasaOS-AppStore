@@ -26,7 +26,7 @@ x-casaos:
   main: llamacpp
   index: /
   port_map: '18080'
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.llamacpp/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.llamacpp/assets/icon.svg
   title:
     ca_ES: llama.cpp
     cs_CZ: llama.cpp

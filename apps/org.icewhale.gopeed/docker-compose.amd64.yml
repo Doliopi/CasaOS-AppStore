@@ -26,7 +26,7 @@ services:
 x-casaos:
   id: org.icewhale.gopeed
   main: gopeed
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.gopeed/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.gopeed/assets/icon.svg
   title:
     en_US: Gopeed
     pt_BR: Gopeed

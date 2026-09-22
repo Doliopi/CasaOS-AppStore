@@ -37,7 +37,7 @@ x-casaos:
     sv_SE: PeaNUT
     tr_TR: PeaNUT
     zh_CN: PeaNUT
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.peanut/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.peanut/assets/icon.svg
   main: peanut
   port_map: "8084"
   index: /

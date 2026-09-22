@@ -19,7 +19,7 @@
   "docs": "https://github.com/henriquesebastiao/downtify#readme",
   "title": "Downtify",
   "release_note": "- v2.7.0 adds configurable parallel downloads.\n- It adds weekly and monthly playlist synchronization intervals.\n- Dependency maintenance updates are included.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.downtify",
   "version": "2.7.0",
   "categories": [

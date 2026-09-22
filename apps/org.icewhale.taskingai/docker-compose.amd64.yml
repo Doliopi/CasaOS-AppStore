@@ -198,7 +198,7 @@ configs:
 x-casaos:
   id: org.icewhale.taskingai
   main: frontend
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.taskingai/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.taskingai/assets/icon.svg
   title:
     en_US: TaskingAI
   port_map: "3080"

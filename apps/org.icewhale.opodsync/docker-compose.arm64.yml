@@ -36,7 +36,7 @@ x-casaos:
     zh_CN: oPodSync
   main: opodsync
   port_map: "8086"
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.opodsync/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.opodsync/assets/icon.svg
   index: /
   scheme: http
   version: "0.0.1"

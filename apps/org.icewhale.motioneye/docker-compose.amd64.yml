@@ -19,7 +19,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.motioneye
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.motioneye/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.motioneye/assets/icon.svg
   index: /
   main: motioneye
   port_map: "8765"

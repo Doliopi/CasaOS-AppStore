@@ -22,7 +22,7 @@
   "docs": "https://docs.linuxserver.io/deprecated_images/docker-unifi-controller/",
   "title": "Unifi-controller [legacy]",
   "release_note": "UniFi Controller 8.0.7 is the application version used by this container; see UniFi release notes for detailed changes.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.unificontroller",
   "version": "8.0.7",
   "categories": [

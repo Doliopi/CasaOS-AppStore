@@ -20,7 +20,7 @@
   "docs": "https://docs.openhands.dev/overview/introduction",
   "title": "OpenHands",
   "release_note": "- 0.59.0 adds support for the Lemonade Provider.\n- Repository search, mounted-volume file ownership, prompt box resizing, and multiple UI issues were fixed.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.openhands",
   "version": "0.59.0",
   "categories": [

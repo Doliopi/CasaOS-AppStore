@@ -22,7 +22,7 @@
   "docs": "https://support.emby.media/support/",
   "title": "Emby(Nvidia GPU)",
   "release_note": "- Emby Server 4.9.5 improves library scanning, Live TV guide refresh, and database performance.\n- The release updates to .NET 8 and sqlite 3.49.2, and adds maintenance mode and network request protocol options.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.embynvidia",
   "version": "4.9.5",
   "categories": [

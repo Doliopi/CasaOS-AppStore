@@ -19,7 +19,7 @@ services:
     container_name: gateway-go
 x-casaos:
   id: org.icewhale.gatewaygo
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.gatewaygo/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.gatewaygo/assets/icon.svg
   main: gateway-go
   port_map: "34323"
   scheme: http

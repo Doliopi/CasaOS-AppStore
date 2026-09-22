@@ -23,7 +23,7 @@
   "docs": "https://komga.org/docs/introduction/",
   "title": "Komga",
   "release_note": "- v1.24.4 fixes API age-restriction serialization, EPUB TOC parsing, Kobo raw-body proxying, KOReader Accept headers, and OPDS2 navigation/auth-logo behavior.\n- Docker base images were updated to Ubuntu 26.04 for amd64 and arm64.\n- The gotson/komga:1.24.4 Docker image tag was published on 2026-04-24.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.komga",
   "version": "1.24.4",
   "categories": [

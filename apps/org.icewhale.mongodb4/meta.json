@@ -17,7 +17,7 @@
   "docs": "https://www.mongodb.com/docs/v4.4/",
   "title": "MongoDB 4",
   "release_note": "- MongoDB 4.4.22 is a production release with fixes since 4.4.21 and is recommended for MongoDB 4.4 users.\n- Fixes include incremental backup handling where modified blocks could be omitted.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.mongodb4",
   "version": "4.4.22",
   "categories": [

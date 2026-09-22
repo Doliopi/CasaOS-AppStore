@@ -23,7 +23,7 @@
   "docs": "https://api-docs.deepseek.com/",
   "title": "DeepSeekHarness",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.dsh-harness",
   "version": "0.1.0",
   "categories": [

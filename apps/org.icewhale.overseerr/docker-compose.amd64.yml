@@ -19,7 +19,7 @@ services:
 x-casaos:
   id: org.icewhale.overseerr
   main: overseerr
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.overseerr/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.overseerr/assets/icon.svg
   title:
     en_US: Overseerr
   port_map: '5055'

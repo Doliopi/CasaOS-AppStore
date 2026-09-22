@@ -52,7 +52,7 @@ services:
 x-casaos:
   id: org.icewhale.jellyfinnvidia
   main: jellyfin
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.jellyfinnvidia/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.jellyfinnvidia/assets/icon.svg
   title:
     en_US: Jellyfin(Nvidia GPU)
   index: /

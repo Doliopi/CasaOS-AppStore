@@ -37,7 +37,7 @@ services:
 x-casaos:
   id: org.icewhale.etherpad
   main: etherpad
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.etherpad/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.etherpad/assets/icon.svg
   scheme: http
   port_map: "9001"
   index: /

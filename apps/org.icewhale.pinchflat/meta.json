@@ -22,7 +22,7 @@
   "docs": "https://github.com/kieraneglin/pinchflat#readme",
   "title": "Pinchflat",
   "release_note": "- Latest upstream release v2025.9.26 includes an important note referencing upstream issue #800.\n- Dockerfiles now include Deno.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.pinchflat",
   "version": "2025.9.26",
   "categories": [

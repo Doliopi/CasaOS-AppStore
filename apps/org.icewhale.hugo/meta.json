@@ -24,7 +24,7 @@
   "docs": "https://gohugo.io/documentation/",
   "title": "Hugo",
   "release_note": "- v0.161.1 honors Retry-After headers in resources.GetRemote retries.\n- It adds AllowChildProcess to security.node.permissions and restricts the default http.urls @ deny rule to userinfo.\n- The ghcr.io/gohugoio/hugo:v0.161.1 Docker image tag was verified on GHCR.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.hugo",
   "version": "0.161.1",
   "categories": [

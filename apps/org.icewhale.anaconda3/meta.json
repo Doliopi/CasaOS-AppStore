@@ -26,7 +26,7 @@
   "docs": "https://docs.anaconda.com/anaconda/",
   "title": "Anaconda3",
   "release_note": "- anaconda3-2024.10-1 publishes updated Debian images for Anaconda Distribution 2024.10-1.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.anaconda3",
   "version": "2024.10-1",
   "categories": [

@@ -24,7 +24,7 @@
   "docs": "https://docs.karakeep.app/",
   "title": "Karakeep",
   "release_note": "- v0.33.2 migrates to the maintained Karakeep Chrome image, upgrading Chrome from 124 to 151 and replacing the abandoned Alpine Chrome image.\n- It fixes metadata extraction for large SingleFile archives, hardens crawler asset conversion, and pins Node.js to avoid a crash-loop regression.\n- It adds direct custom SingleFile archive uploads through the CLI and a favicon that adapts to the browser theme.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.karakeep",
   "version": "0.33.2",
   "categories": [

@@ -19,7 +19,7 @@
   "docs": "https://freshrss.github.io/FreshRSS/en/",
   "title": "FreshRSS",
   "release_note": "- 1.29.1 is a bug-fix release following FreshRSS 1.29.0.\n- Adds .txt feed URL imports in addition to OPML workflows.\n- Adds a CLI for periodic SQLite export and includes fixes from the 1.29.x cycle.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.freshrss",
   "version": "1.29.1",
   "categories": [

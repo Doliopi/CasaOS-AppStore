@@ -20,7 +20,7 @@
   "docs": "https://fileflows.com/docs",
   "title": "FileFlows",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.fileflows",
   "version": "0.0.1",
   "categories": [

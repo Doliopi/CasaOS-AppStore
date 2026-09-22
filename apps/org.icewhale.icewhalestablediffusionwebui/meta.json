@@ -18,7 +18,7 @@
   "docs": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki",
   "title": "Stable Diffusion",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.icewhalestablediffusionwebui",
   "version": "9.0.0",
   "categories": [

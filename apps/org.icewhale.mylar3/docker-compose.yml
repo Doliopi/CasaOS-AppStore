@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.mylar3
   main: mylar3
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.mylar3/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.mylar3/assets/icon.svg
   title:
     en_US: Mylar3
   port_map: "8090"

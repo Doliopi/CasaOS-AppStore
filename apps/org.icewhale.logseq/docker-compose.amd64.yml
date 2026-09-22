@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.logseq
   main: logseq
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.logseq/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.logseq/assets/icon.svg
   title:
     en_US: Logseq
   port_map: "3325"

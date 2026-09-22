@@ -20,7 +20,7 @@
   "docs": "https://docs.clumoove.com",
   "title": "Clumoove",
   "release_note": "- Introduces Cloud File Manager item mutations (rename, server-side copy/move, recursive deletion) and multi-item batch operations.\n- Adds unified background Transfer Center with live tracking and cross-profile transfers.\n- Enhances File Manager UI with interactive multi-column sorting, row selection ergonomics, sticky header, and media preview modals.\n- Fixes HiDrive rename path handling and invalid destination derivation during file operations.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.clumoove.app",
   "version": "0.18.0",
   "categories": [

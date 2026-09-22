@@ -24,7 +24,7 @@ services:
 x-casaos:
   id: org.icewhale.v2raya
   main: v2raya
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.v2raya/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.v2raya/assets/icon.svg
   scheme: http
   port_map: "2017"
   index: /

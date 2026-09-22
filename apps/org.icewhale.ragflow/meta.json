@@ -20,7 +20,7 @@
   "docs": "https://ragflow.io/docs/dev/",
   "title": "RagFlow",
   "release_note": "- v0.21.1 experimentally adds PDF document parsing with MinerU.\n- Dataset and personal center UI/UX were improved.\n- The Infinity document engine was upgraded to v0.6.1, and video parsing was fixed.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.ragflow",
   "version": "0.21.1",
   "categories": [

@@ -15,7 +15,7 @@
   "docs": "https://github.com/rogerfar/rdt-client/wiki",
   "title": "Real-Debrid Torrent Client",
   "release_note": "RDTClient v2.0.136 adds a devcontainer development workflow and upgrades the torbox.net dependency.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.rdtclient",
   "version": "2.0.136",
   "categories": [

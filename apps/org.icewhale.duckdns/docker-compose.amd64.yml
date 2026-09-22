@@ -19,7 +19,7 @@ services:
 x-casaos:
   id: org.icewhale.duckdns
   main: duckdns
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.duckdns/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.duckdns/assets/icon.svg
   title:
     en_US: duckdns
   index: /

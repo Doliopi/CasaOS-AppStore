@@ -21,7 +21,7 @@
   "docs": "https://docs.linkwarden.app/",
   "title": "Linkwarden",
   "release_note": "- Linkwarden 2.14.1 adds support for serving preserved HTML archives from a separate public hostname to isolate untrusted content from the main app.\n- It improves the tag selection experience.\n- The release also includes stability fixes and bug fixes.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.linkwarden",
   "version": "2.14.1",
   "categories": [

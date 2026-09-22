@@ -19,7 +19,7 @@
   "docs": "https://www.navidrome.org/docs/",
   "title": "Navidrome",
   "release_note": "- v0.61.2 fixes transcoding channel clamping and lets WAV files play directly in browsers without unnecessary transcoding.\n- Scanner and artwork fixes include ORIGYEAR support for VorbisComment/MP4, configurable max cover-art upload size, and shared disc-art handling.\n- Plugin and server fixes add file path to TrackInfo, improve ShareURL handling, surface SQLite backup errors, and improve configuration validation.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.navidrome",
   "version": "0.61.2",
   "categories": [

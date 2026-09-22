@@ -31,7 +31,7 @@
   "docs": "https://docs.linuxserver.io/deprecated_images/docker-emulatorjs/",
   "title": "emulatorjs",
   "release_note": "- Metadata release 1.9.2 adds logos and videos for 3DO, Arcade, MSX, NDS, NGP, PSX, Saturn, and Wonderswan.\n- This entry remains tied to the configured LinuxServer image tag.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.emulatorjs",
   "version": "1.9.2",
   "categories": [

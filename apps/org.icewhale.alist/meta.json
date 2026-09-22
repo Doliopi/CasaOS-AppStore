@@ -27,7 +27,7 @@
   "docs": "https://alistgo.com/guide/",
   "title": "Alist",
   "release_note": "- v3.40.0 adds cryptographic random string generation for security and OAuth state generation/verification for SSO.\n- Fixes include Baidu Netdisk timestamps, local file owner preservation, closing closed channels, PikPak captcha_sign errors, and OIDC compatibility mode.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.alist",
   "version": "3.40.0",
   "categories": [

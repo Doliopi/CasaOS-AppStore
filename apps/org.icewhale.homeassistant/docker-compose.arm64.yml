@@ -29,7 +29,7 @@ services:
 x-casaos:
   id: org.icewhale.homeassistant
   main: homeassistant
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.homeassistant/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.homeassistant/assets/icon.svg
   title:
     en_US: Home Assistant
   index: /

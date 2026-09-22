@@ -20,7 +20,7 @@
   "docs": "https://docs.flowiseai.com/",
   "title": "Flowise",
   "release_note": "- flowise@3.1.2 ships security hardening across TTS CORS, MCP server config, tool and variable endpoints, credentials, chatflow access, and user update APIs.\n- It fixes MySQL-backed session cleanup and limits Markdown rendering in RichInput.\n- The flowiseai/flowise:3.1.2 Docker image tag was published on 2026-04-14.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.flowise",
   "version": "3.1.2",
   "categories": [

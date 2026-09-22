@@ -22,7 +22,7 @@
   "docs": "https://doc.voce.chat/",
   "title": "VoceChat",
   "release_note": "- VoceChat image v0.5.17 is available on Docker Hub for amd64.\n- The Privoce/vocechat-server-rust GitHub repository still only exposes tags through v0.3.20, so this update is based on the published Docker image tag.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.vocechat",
   "version": "0.5.17",
   "categories": [

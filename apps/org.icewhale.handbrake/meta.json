@@ -20,7 +20,7 @@
   "docs": "https://github.com/jlesage/docker-handbrake#readme",
   "title": "handbrake",
   "release_note": "- v26.03.3 updates HandBrake to version 1.11.1.\n- It keeps the jlesage HandBrake container release line current.\n- The jlesage/handbrake:v26.03.3 Docker image tag was published on 2026-03-23.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.handbrake",
   "version": "26.3.3",
   "categories": [

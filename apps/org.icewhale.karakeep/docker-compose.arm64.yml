@@ -66,7 +66,7 @@ networks:
 x-casaos:
   id: org.icewhale.karakeep
   main: karakeep
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.karakeep/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.karakeep/assets/icon.svg
   scheme: http
   port_map: "14592"
   index: /

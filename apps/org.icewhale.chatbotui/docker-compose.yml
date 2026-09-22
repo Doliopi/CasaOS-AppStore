@@ -16,7 +16,7 @@ services:
 x-casaos:
   id: org.icewhale.chatbotui
   main: chatbot-ui
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.chatbotui/assets/icon.jpg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.chatbotui/assets/icon.jpg
   title:
     en_US: Chatbot UI
   index: /

@@ -18,7 +18,7 @@
   "docs": "https://glances.readthedocs.io/",
   "title": "Glances",
   "release_note": "- v4.5.4 fixes temperature thresholds, negative memory values, Docker container counts through Home Assistant, and LXD container filtering.\n- It adds Rockchip MPP monitoring, clamps LXC memory values, and improves single-core Rockchip NPU parsing and device naming.\n- Security fixes cover SSRF in the IP plugin, unauthenticated REST API information disclosure, and Cassandra CQL injection.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.glances",
   "version": "4.5.4",
   "categories": [

@@ -23,7 +23,7 @@ services:
 x-casaos:
   id: org.icewhale.chatgptnextweb
   main: chatgpt-next-web
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.chatgptnextweb/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.chatgptnextweb/assets/icon.svg
   title:
     en_US: ChatGPT Next Web
   port_map: "3000"

@@ -21,7 +21,7 @@
   "docs": "https://help.obsidian.md",
   "title": "Obsidian",
   "release_note": "- Obsidian desktop 1.12.7 is the latest upstream release published on 2026-03-23.\n- The linuxserver/obsidian:1.12.7 Docker image tag was published on 2026-05-24.\n- This refreshes the container from the 1.8.x image line to the 1.12.x desktop release line.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.obsidian",
   "version": "1.12.7",
   "categories": [

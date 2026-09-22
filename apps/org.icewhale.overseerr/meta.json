@@ -21,7 +21,7 @@
   "docs": "https://docs.overseerr.dev",
   "title": "Overseerr",
   "release_note": "- Overseerr 1.35.0 includes bug fixes for notifications, web push resubscription, Plex Watchlist URL handling, availability sync, request state updates, and specials handling.\n- The release also updates Docker build support, including py3-setuptools for arm builds on Node 20.\n- The linuxserver/overseerr:1.35.0 Docker image tag was published on 2026-02-16.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.overseerr",
   "version": "1.35.0",
   "categories": [

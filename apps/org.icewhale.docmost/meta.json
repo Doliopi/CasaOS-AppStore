@@ -28,7 +28,7 @@
   "docs": "https://docmost.com/docs",
   "title": "Docmost",
   "release_note": "- v0.90.0 adds page labels, synced blocks, indents, table sorting, backlinks, Azure Storage Blobs support, and accessibility fixes.\n- It includes fixes for editor toolbar preference, page permissions, PDF uploads, macOS Ctrl-K behavior, and table width preservation.\n- Enterprise additions include templates, PDF import, and SCIM provisioning.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.docmost",
   "version": "0.90.0",
   "categories": [

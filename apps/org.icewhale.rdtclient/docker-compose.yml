@@ -30,7 +30,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.rdtclient
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.rdtclient/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.rdtclient/assets/icon.svg
   index: /
   port_map: "6500"
   scheme: http

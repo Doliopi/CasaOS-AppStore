@@ -22,7 +22,7 @@
   "docs": "https://docs.duplicati.com",
   "title": "Duplicati",
   "release_note": "- Duplicati 2.1.0 is the configured image line for this CasaOS entry.\n- The upstream 2.1.0.x release notes include critical fixes for failed upload handling, source URL path handling, zip fallback support, and macOS dark/light mode icons.\n- Major changes from older 2.0.8.x builds include .NET 8, Kestrel, mandatory password authentication, and updated database versions.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.duplicati",
   "version": "2.1.0",
   "categories": [

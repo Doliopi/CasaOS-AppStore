@@ -22,7 +22,7 @@
   "docs": "https://lyrion.org/getting-started/",
   "title": "LyrionMusicServer",
   "release_note": "- The lmscommunity/lyrionmusicserver:9.1.1 stable Docker image tag was published on 2026-05-24.\n- This keeps the app on the stable 9.1.x image line and avoids the newer development image tags.\n- The update refreshes the Lyrion Music Server container image while preserving the existing CasaOS app configuration.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.lyrionmusicserver",
   "version": "9.1.1",
   "categories": [

@@ -52,7 +52,7 @@ x-casaos:
     sv_SE: TurboDiffusion(Nvidia GPU)
     tr_TR: TurboDiffusion(Nvidia GPU)
     zh_CN: TurboDiffusion(Nvidia GPU)
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.turbodiffusionnvidia/assets/icon.png
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.turbodiffusionnvidia/assets/icon.png
   main: turbodiffusion
   port_map: "27860"
   index: /

@@ -21,7 +21,7 @@
   "docs": "https://v2raya.org/en/docs/prologue/introduction/",
   "title": "V2rayA",
   "release_note": "- v2rayA v2.2.7.5 fixes Trojan gRPC parameter handling.\n- Corrects LRU cache list operations.\n- Adds XHTTP support powered by Xray.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.v2raya",
   "version": "2.2.7-5",
   "categories": [

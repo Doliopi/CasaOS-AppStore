@@ -19,7 +19,7 @@
   "docs": "https://docs.anythingllm.com",
   "title": "AnythingLLM",
   "release_note": "- Latest upstream release v1.12.1 adds streamed document embedding status so workspace uploads report progress per document.\n- Built-in Agent skill integrations were added for Gmail, Outlook, and Google Calendar.\n- Other improvements include image lightbox support, Korean/Chinese/Japanese PDF generation support, better integration citations, and DDG default web search for agent skills.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.anythingllm",
   "version": "1.14.2",
   "categories": [

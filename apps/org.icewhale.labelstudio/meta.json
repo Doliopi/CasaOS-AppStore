@@ -20,7 +20,7 @@
   "docs": "https://labelstud.io/guide/",
   "title": "Label Studio",
   "release_note": "- v1.23.0 adds Vector and VectorLabels tags for point-based image annotations such as polylines, polygons, and skeletons.\n- Data Manager and template-builder updates add interactive task-source viewing, filter copy/paste, JSON filter copy, row context menus, Ctrl+F search, panel resizing, and shift range selection.\n- The heartexlabs/label-studio:1.23.0 Docker image tag was published on 2026-03-13.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.labelstudio",
   "version": "1.23.0",
   "categories": [

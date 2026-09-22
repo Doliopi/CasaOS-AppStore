@@ -12,7 +12,7 @@ services:
 x-casaos:
   id: org.icewhale.holoplay
   main: holoplay
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.holoplay/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.holoplay/assets/icon.svg
   title:
     en_US: HoloPlay
   index: /

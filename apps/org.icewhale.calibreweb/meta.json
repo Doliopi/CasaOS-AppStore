@@ -24,7 +24,7 @@
   "docs": "https://github.com/janeczku/calibre-web/wiki",
   "title": "Calibre-web",
   "release_note": "- 0.6.24 adds audio-file metadata extraction during upload and a refreshed PDF viewer.\n- Multiple book formats can be uploaded with progress and metadata merge support, including drag and drop.\n- Fixes include Kobo downloads and cover sizing, metadata search results, thumbnail generation on Google Drive, split-library database saving, Amazon UK links, Safari bookmarks, LDAP import, and Calibre convert parameters with spaces.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.calibreweb",
   "version": "0.6.24",
   "categories": [

@@ -19,7 +19,7 @@
   "docs": "https://github.com/ggml-org/llama.cpp/blob/master/docs/server.md",
   "title": "llama.cpp",
   "release_note": "Initial release: llama.cpp server with Vulkan GPU acceleration (ghcr.io/ggml-org/llama.cpp:server).",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.llamacpp",
   "version": "1.0.0",
   "categories": [

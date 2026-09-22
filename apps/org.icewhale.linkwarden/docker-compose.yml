@@ -97,7 +97,7 @@ x-casaos:
     sv_SE: Linkwarden
     tr_TR: Linkwarden
     zh_CN: Linkwarden
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.linkwarden/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.linkwarden/assets/icon.svg
   main: linkwarden
   port_map: "3428"
   index: /

@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.lidarr
   main: lidarr
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.lidarr/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.lidarr/assets/icon.svg
   title:
     en_US: Lidarr
   port_map: "8686"

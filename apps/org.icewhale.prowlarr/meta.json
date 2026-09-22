@@ -21,7 +21,7 @@
   "docs": "https://wiki.servarr.com/prowlarr",
   "title": "Prowlarr",
   "release_note": "- Prowlarr 2.5.2.5491 adds the DesiGaane and NZBIndex indexers and new IPTorrents sorting options.\n- Improves size precision and fixes indexer category and parsing issues.\n- Docker users should update the container image rather than use the in-app updater.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.prowlarr",
   "version": "2.5.2",
   "categories": [

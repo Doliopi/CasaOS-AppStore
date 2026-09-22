@@ -34,7 +34,7 @@ x-casaos:
   index: /
   port_map: "6790"
   scheme: http
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/com.nzbfast.nzbfast/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/com.nzbfast.nzbfast/assets/icon.svg
   title:
     en_US: nzbfast
   version: "1.3.1"

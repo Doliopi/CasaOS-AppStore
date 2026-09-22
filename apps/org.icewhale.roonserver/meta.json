@@ -22,7 +22,7 @@
   "docs": "https://help.roonlabs.com/portal/en/kb/articles/installing-the-roon-server-via-docker",
   "title": "Roon Server",
   "release_note": "- Uses the latest RoonServer Production release.\n- RoonServer is downloaded on first start and stored in `/Roon`.\n- RoonServer updates automatically within the Production release channel.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.roonserver",
   "version": "1.0.8",
   "categories": [

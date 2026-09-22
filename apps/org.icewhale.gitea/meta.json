@@ -24,7 +24,7 @@
   "docs": "https://docs.gitea.com/",
   "title": "Gitea",
   "release_note": "- v1.26.2 includes security fixes for permissions, artifact signatures, token scope checks, OAuth/PKCE handling, downloads, wiki writes, and LFS token access.\n- It also fixes package permission checks, smart HTTP request scopes, basic auth, maintainer edit permissions, URL sanitization, and attachment Content-Security-Policy.\n- Dependency security updates are included, such as mermaid v11.15.0 and go-git updates.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.gitea",
   "version": "1.26.2",
   "categories": [

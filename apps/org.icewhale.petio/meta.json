@@ -21,7 +21,7 @@
   "docs": "https://docs.petio.tv",
   "title": "Petio",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.petio",
   "version": "0.5.5",
   "categories": [

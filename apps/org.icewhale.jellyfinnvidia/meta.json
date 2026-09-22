@@ -22,7 +22,7 @@
   "docs": "https://jellyfin.org/docs/",
   "title": "Jellyfin(Nvidia GPU)",
   "release_note": "- v10.10.6 includes bug fixes for Jellyfin Server.\n- The release fixes Apple silicon crashes by bumping the .NET framework version to 8.0.13.\n- Fixes include subnet checks, image encoding concurrency, SchedulesDirect image prefetching, Live TV guide backdrops, and websocket state locking.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.jellyfinnvidia",
   "version": "10.10.6",
   "categories": [

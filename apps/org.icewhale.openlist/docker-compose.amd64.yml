@@ -24,7 +24,7 @@ services:
 x-casaos:
   id: org.icewhale.openlist
   main: openlist
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.openlist/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.openlist/assets/icon.svg
   scheme: http
   port_map: "5244"
   index: /

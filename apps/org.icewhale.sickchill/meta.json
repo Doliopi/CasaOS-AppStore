@@ -25,7 +25,7 @@
   "docs": "https://github.com/SickChill/SickChill/wiki",
   "title": "Sickchill",
   "release_note": "- 2023.6.27 has an empty GitHub release body, so changes were checked against the upstream tag compare.\n- The compare includes dependency updates for Poetry/Yarn, urllib3, workbox-webpack-plugin, Snyk, and types-setuptools.\n- Fixes and updates include site-message dismissal, minimum leech time, TL category cleanup, generic.py, torrentleech.py, and bencode logging handling.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.sickchill",
   "version": "2023.6.27",
   "categories": [

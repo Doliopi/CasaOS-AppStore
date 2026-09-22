@@ -19,7 +19,7 @@
   "docs": "https://github.com/jeessy2/ddns-go#readme",
   "title": "ddns-go",
   "release_note": "- v6.17.1 optimizes the HiPMDnsMgr adapter with English logs and pagination support.\n- Improves the HiDNS DNSMgr provider with a two-stage query strategy for better performance.\n- Updates Go crypto and network dependencies from the upstream release stream.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.ddnsgo",
   "version": "6.17.1",
   "categories": [

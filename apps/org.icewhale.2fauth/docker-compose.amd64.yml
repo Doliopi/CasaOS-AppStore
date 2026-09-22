@@ -22,7 +22,7 @@ services:
 x-casaos:
   id: org.icewhale.2fauth
   main: 2fauth
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.2fauth/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.2fauth/assets/icon.svg
   title:
     en_US: 2FAuth
   index: /

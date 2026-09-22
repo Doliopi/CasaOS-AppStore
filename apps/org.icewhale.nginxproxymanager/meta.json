@@ -25,7 +25,7 @@
   "docs": "https://nginxproxymanager.com/guide/",
   "title": "Nginx Proxy Manager",
   "release_note": "- v2.13.5 adds Vietnamese and Italian locales, with Dutch added and Polish, Russian, Slovak, and Chinese translations updated.\n- Fixes include web crashes when viewing Custom Certificates and translation text spacing issues.\n- Upgrade notifications, mobile UI/UX improvements, certbot-azure-dns updates, and refreshed OpenResty, Certbot, and s6-overlay components are included.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.nginxproxymanager",
   "version": "2.13.5",
   "categories": [

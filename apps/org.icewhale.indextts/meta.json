@@ -23,7 +23,7 @@
   "docs": "https://github.com/index-tts/index-tts#readme",
   "title": "Index-TTS",
   "release_note": "- IndexTTS 2.0 tracks the upstream IndexTTS2 release.\n- IndexTTS2 adds controllable and uncontrollable precise speech duration generation for autoregressive TTS.\n- It adds expressive emotion control through multiple input modalities while keeping zero-shot timbre reproduction.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.indextts",
   "version": "2.0.0",
   "categories": [

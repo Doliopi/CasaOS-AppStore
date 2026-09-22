@@ -32,7 +32,7 @@ services:
 x-casaos:
   id: org.icewhale.plexnvidia
   main: plex
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.plexnvidia/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.plexnvidia/assets/icon.svg
   title:
     en_US: Plex(Nvidia GPU)
   index: /web/index.html

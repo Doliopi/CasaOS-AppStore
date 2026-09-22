@@ -22,7 +22,7 @@
   "docs": "https://github.com/mregni/EmbyStat/wiki",
   "title": "Embystat",
   "release_note": "- The configured EmbyStat 0.2.0 image does not map to a non-prerelease GitHub Release entry in mregni/EmbyStat.\n- Keep release notes bound to this image tag until upstream publishes a matching stable changelog.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.embystat",
   "version": "0.2.0",
   "categories": [

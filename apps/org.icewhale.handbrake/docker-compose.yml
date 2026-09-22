@@ -25,7 +25,7 @@ services:
     container_name: handbrake
 x-casaos:
   id: org.icewhale.handbrake
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.handbrake/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.handbrake/assets/icon.svg
   index: /
   port_map: "5800"
   scheme: http

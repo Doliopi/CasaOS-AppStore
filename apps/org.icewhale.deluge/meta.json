@@ -25,7 +25,7 @@
   "docs": "https://dev.deluge-torrent.org/wiki/UserGuide",
   "title": "Deluge",
   "release_note": "- Deluge 2.2.0 removes Python 3.6 support and fixes multiple GHSL security issues in update checks and Web UI endpoints.\n- Core and UI changes add v2 torrent creation, theme switching, network-interface name support, and AutoAdd watch-folder improvements.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.deluge",
   "version": "2.2.0",
   "categories": [

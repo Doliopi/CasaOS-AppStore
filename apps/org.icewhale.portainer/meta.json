@@ -22,7 +22,7 @@
   "docs": "https://docs.portainer.io",
   "title": "Portainer",
   "release_note": "- 2.31.3 adds the --trusted-origins CLI option and TRUSTED_ORIGINS environment variable.\n- The option is used to configure allowed domains when Portainer is behind a reverse proxy and avoids Origin invalid errors.\n- The release documents known limitations for Podman support.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.portainer",
   "version": "2.31.3",
   "categories": [

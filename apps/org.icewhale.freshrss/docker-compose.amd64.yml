@@ -22,7 +22,7 @@ services:
 x-casaos:
   id: org.icewhale.freshrss
   main: freshrss
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.freshrss/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.freshrss/assets/icon.svg
   port_map: "8749"
   scheme: http
   title:

@@ -23,7 +23,7 @@
   "docs": "https://wiki.bazarr.media",
   "title": "Bazarr",
   "release_note": "- v1.5.6 improves subdl and Gestdown provider error handling and release matching.\n- Adds Spain vs LATAM Spanish detection for SubX and completes SubX API key integration.\n- Fixes audio profile migration, Windows post-processing, assrt season-pack matching, and CJK title matching issues.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.bazarr",
   "version": "1.5.6",
   "categories": [

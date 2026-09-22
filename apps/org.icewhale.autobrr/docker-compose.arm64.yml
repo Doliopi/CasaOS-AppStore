@@ -21,5 +21,5 @@ x-casaos:
   port_map: "7474"
   title:
     en_US: Autobrr
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.autobrr/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.autobrr/assets/icon.svg
   version: "1.80.0"

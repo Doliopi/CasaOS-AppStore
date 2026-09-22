@@ -22,7 +22,7 @@
   "docs": "https://samtv12345.github.io/PodFetch/",
   "title": "PodFetch",
   "release_note": "- Adds Podcasting 2.0 transcript support and episode range downloads.\n- Improves aggregated RSS items with real links and source-podcast tags.\n- Fixes IME text input, English localization, and configured cover filenames during downloads and rescans.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "io.github.samtv12345.podfetch",
   "version": "5.2.3",
   "categories": [

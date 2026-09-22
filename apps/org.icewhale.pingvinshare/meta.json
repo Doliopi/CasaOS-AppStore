@@ -20,7 +20,7 @@
   "docs": "https://stonith404.github.io/pingvin-share/",
   "title": "Pingvin-Share",
   "release_note": "- Latest upstream release v1.13.0 adds support for using Redis cache instead of memory cache.\n- The backend can now define the path to the config file.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.pingvinshare",
   "version": "1.13.0",
   "categories": [

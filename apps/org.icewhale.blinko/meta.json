@@ -21,7 +21,7 @@
   "docs": "https://docs.blinko.space/en/introduction",
   "title": "Blinko",
   "release_note": "- Blinko 1.8.7 adds MiniMax as a first-class LLM provider.\n- It fixes upload filename sanitization, tag filter reset behavior, and Turkish translations.\n- The release also streamlines search state and URL updates, adds file upload tests, removes CircleCI config, and refreshes localization content.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.blinko",
   "version": "1.8.7",
   "categories": [

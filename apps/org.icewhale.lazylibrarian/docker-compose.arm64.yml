@@ -31,7 +31,7 @@ services:
 x-casaos:
   id: org.icewhale.lazylibrarian
   main: lazylibrarian
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.lazylibrarian/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.lazylibrarian/assets/icon.svg
   title:
     en_US: Lazylibrarian
   port_map: "5299"

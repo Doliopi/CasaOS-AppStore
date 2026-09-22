@@ -27,5 +27,5 @@ x-casaos:
   title:
     en_US: Jenkins CI/CD
   port_map: "8080"
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.jenkins/assets/icon.svg
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.jenkins/assets/icon.svg
   version: "2.569.0"

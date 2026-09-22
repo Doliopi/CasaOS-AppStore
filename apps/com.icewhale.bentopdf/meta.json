@@ -24,7 +24,7 @@
   "docs": "https://www.bentopdf.com/docs",
   "title": "BentoPDF",
   "release_note": "- v2.8.8 adds in-place PDF text editing with live reflow, preserved styling, find and replace, and spell-check.\n- Improves the editor with searchable non-Latin text, editable author names, and a new duplex sorting tool.\n- Fixes self-hosted string rendering, asset precaching, PDF-to-TIFF memory errors, commenting, redirects, and WASM initialization.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "com.icewhale.bentopdf",
   "version": "2.8.8",
   "categories": [

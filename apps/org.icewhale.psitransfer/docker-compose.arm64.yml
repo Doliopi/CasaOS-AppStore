@@ -36,7 +36,7 @@ x-casaos:
     sv_SE: PsiTransfer
     tr_TR: PsiTransfer
     zh_CN: PsiTransfer
-  icon: https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages/apps/org.icewhale.psitransfer/assets/icon.png
+  icon: https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages/apps/org.icewhale.psitransfer/assets/icon.png
   index: /
   main: psitransfer
   port_map: "13001"

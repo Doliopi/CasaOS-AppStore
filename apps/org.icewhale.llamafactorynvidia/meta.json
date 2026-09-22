@@ -19,7 +19,7 @@
   "docs": "https://llamafactory.readthedocs.io/",
   "title": "LLaMA Factory(Nvidia GPU)",
   "release_note": "- v0.9.4 updates the project name from LLaMA-Factory to LlamaFactory.\n- Older Python runtimes are deprecated; the supported Python runtime range was raised.\n- Installation moved from pip to uv, and new training support includes OFT, Semantic Initialization, Megatron-LM, KTransformers, MPO, FP8, and TRL 0.24.",
-  "base_url": "https://cdn.jsdelivr.net/gh/Doliopi/CasaOS-AppStore@gh-pages",
+  "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.llamafactorynvidia",
   "version": "0.9.4",
   "categories": [
