@@ -6,7 +6,7 @@ services:
       FTLCONF_webserver_api_password: 444
       gfv: ff
       aa: aa
-    image: pihole/pihole:2026.07.2@sha256:906ef8a6846b8bba2a39715835973a8f3b4ffdf034ff3f2a117c72686e716a3c
+    image: pihole/pihole:2026.09.0@sha256:bc614b0af8941dde64e51e92a3ab3c09f42e0a77af351f4e6cb27564be7ac768
     deploy:
       resources:
         reservations:
@@ -47,4 +47,4 @@ x-casaos:
     en_US: Pi-hole
   index: /admin
   port_map: "8800"
-  version: "2026.7.2"
+  version: "2026.9.0"

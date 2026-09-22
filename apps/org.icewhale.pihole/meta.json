@@ -28,15 +28,15 @@
   "release_note": "- Docker image 2026.05.0 refreshes the Pi-hole container build and updates container capability documentation.\n- This Docker-specific release is light; review the upstream upgrade impact section before updating production deployments.",
   "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.pihole",
-  "version": "2026.7.2",
+  "version": "2026.9.0",
   "categories": [
     "networking"
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "386": 42595058,
-    "amd64": 42666524,
-    "arm": 39584577,
-    "arm64": 43635804
+    "386": 42696237,
+    "amd64": 42768410,
+    "arm": 39678563,
+    "arm64": 43739536
   }
 }
