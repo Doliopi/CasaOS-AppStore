@@ -5,7 +5,7 @@ services:
       TZ: $TZ
       FTLCONF_webserver_api_password: casaos
       FTLCONF_dns_listeningMode: all
-    image: pihole/pihole:2026.05.0@sha256:441d3146d6b4c513e29c5157894ff2c29284be1ad50a2cb9547574de3996f913
+    image: pihole/pihole:2026.06.0@sha256:1969825bde76cffd7b52dea9fedce6017c9f2e26676a658307bb6b4ca7328a10
     deploy:
       resources:
         reservations:
@@ -40,4 +40,4 @@ x-casaos:
     en_US: Pi-hole
   index: /admin
   port_map: "8800"
-  version: "2026.5.0"
+  version: "2026.6.0"
