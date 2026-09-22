@@ -2,19 +2,19 @@ name: pihole
 services:
   pihole:
     environment:
-      TZ: 444
+      xg: 4441
       FTLCONF_webserver_api_password: 444
       gfv: ff
       aa: aa
-    image: pihole/pihole:2026.07.1@sha256:2fc68cfbbfe51f0d38674843eb2c85dd16affb149b72fb0beb560c72e06ad66a
+    image: pihole/pihole:2026.07.2@sha256:8bafd2fed06b05dbd98a75c66f796b8b192b175e8bbecef2d940d95b0aa54a1b
     deploy:
       resources:
         reservations:
           memory: 64M
     network_mode: bridge
     ports:
-      - target: 80
-        published: "8806"
+      - target: 8044
+        published: "18806"
         protocol: tcp
       - target: 53
         published: "7545"
@@ -28,8 +28,8 @@ services:
     restart: unless-stopped
     volumes:
       - type: bind
-        source: /DATA/AppData/$AppID/etc/pihole/
-        target: /etc/pihole
+        source: /DATA/AppData/
+        target: /etc/pihole1
       - type: bind
         source: /DATA/ccccc
         target: /ccccc
@@ -47,4 +47,4 @@ x-casaos:
     en_US: Pi-hole
   index: /admin
   port_map: "8800"
-  version: "2026.7.1"
+  version: "2026.7.2"

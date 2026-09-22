@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T08:00:45Z",
+  "updated_at": "2026-09-22T08:18:19Z",
   "app_count": 178,
   "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "apps": [
@@ -2667,8 +2667,8 @@
       "thumbnail": "/apps/org.icewhale.pihole/assets/thumbnaill.webp",
       "compose_url": "/apps/org.icewhale.pihole/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.pihole/meta.json",
-      "content_hash": "a7db6e3b",
-      "version": "2026.7.1"
+      "content_hash": "aa00db2b",
+      "version": "2026.7.2"
     },
     {
       "id": "org.icewhale.pinchflat",
