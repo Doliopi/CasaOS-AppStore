@@ -186,10 +186,6 @@
       "tagline": "Um proxy reverso gratuito para serviços de tunelamento (não auto-hospedado)."
     },
     {
-      "id": "org.icewhale.pocketbase",
-      "tagline": "Backend open source em tempo real em um único arquivo"
-    },
-    {
       "id": "org.icewhale.postgresql",
       "tagline": "O PostgreSQL é um sistema avançado de banco de dados relacional, de classe empresarial e de código aberto. O PostgreSQL suporta tanto consultas SQL (relacionais) quanto consultas JSON (não relacionais)."
     },

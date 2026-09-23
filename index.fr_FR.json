@@ -305,11 +305,6 @@
       "tagline": "Outil de demande de médias amical, synchronise automatiquement avec vos serveurs multimédia!"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw est un assistant IA personnel que vous exécutez sur vos propres appareils.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhab",
       "tagline": "Renforcer la maison intelligente"
     },

@@ -177,11 +177,6 @@
       "tagline": "로컬에서 대형 언어 모델 실행"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw은 사용자의 기기에서 실행되는 개인 AI 비서입니다.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "오픈소스 AI 기반 코딩 어시스턴트",
       "title": "OpenHands"

@@ -306,11 +306,6 @@
       "tagline": "Freundliches Medienanforderungstool, das automatisch mit Ihren Medienservern synchronisiert wird!"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw ist ein persönlicher KI-Assistent, den Sie auf Ihren eigenen Geräten ausführen.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhab",
       "tagline": "Stärkung des Smart Home"
     },

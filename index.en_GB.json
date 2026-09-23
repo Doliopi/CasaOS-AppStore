@@ -173,11 +173,6 @@
       "tagline": "Get up and running with large language models locally"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw is a personal AI assistant you run on your own devices",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "Open-source AI-powered coding assistant",
       "title": "OpenHands"

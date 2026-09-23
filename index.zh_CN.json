@@ -427,11 +427,6 @@
       "tagline": "友好的媒体请求工具，自动与您的媒体服务器同步！"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw 是一个您在自己的设备上运行的个人 AI 助手。",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhab",
       "tagline": "助力智能家居"
     },

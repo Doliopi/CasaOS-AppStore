@@ -182,11 +182,6 @@
       "tagline": "大規模言語モデルをローカルで実行"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClawは、ご自身のデバイスで実行するパーソナルAIアシスタントです。",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "オープンソースAI駆動型コーディングアシスタント",
       "title": "OpenHands"

@@ -168,11 +168,6 @@
       "tagline": "Pokrenite velike jezične modele lokalno"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw je osobni AI asistent kojeg pokrećete na vlastitim uređajima.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "Open-source AI pokretani asistent za kodiranje",
       "title": "OpenHands"

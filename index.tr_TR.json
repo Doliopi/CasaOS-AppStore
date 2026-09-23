@@ -168,11 +168,6 @@
       "tagline": "Büyük dil modellerini yerel olarak çalıştırın"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw, kendi cihazlarınızda çalıştırdığınız kişisel bir yapay zeka asistanıdır.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "Açık Kaynaklı AI Destekli Kodlama Asistanı",
       "title": "OpenHands"

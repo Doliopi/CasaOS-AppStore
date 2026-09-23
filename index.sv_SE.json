@@ -288,11 +288,6 @@
       "tagline": "Vänlig mediaförfrågan, synkroniserar automatiskt med dina mediaservrar!"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw är en personlig AI-assistent som du kör på dina egna enheter.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhab",
       "tagline": "Stärkning av smart hem"
     },

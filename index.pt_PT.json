@@ -168,11 +168,6 @@
       "tagline": "Execute grandes modelos de linguagem localmente"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw é um assistente de IA pessoal que executa nos seus próprios dispositivos.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "Assistente de Codificação de Código Aberto Alimentado por IA",
       "title": "OpenHands"

@@ -168,11 +168,6 @@
       "tagline": "Kom i gang med store språkmodeller lokalt"
     },
     {
-      "id": "org.icewhale.openclaw",
-      "tagline": "OpenClaw er en personlig AI-assistent du kjører på dine egne enheter.",
-      "title": "OpenClaw"
-    },
-    {
       "id": "org.icewhale.openhands",
       "tagline": "Åpen kildekode AI-drevet kodeassistent",
       "title": "OpenHands"
