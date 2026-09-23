@@ -2,8 +2,8 @@
   "apps": [
     {
       "id": "org.clumoove.app",
-      "title": "Clumoove",
-      "tagline": "Self-hosted Cloud-Datenmigration & Synchronisation"
+      "tagline": "Self-hosted Cloud-Datenmigration & Synchronisation",
+      "title": "Clumoove"
     },
     {
       "id": "org.icewhale.2fauth",
@@ -23,8 +23,8 @@
     },
     {
       "id": "org.icewhale.archivebox",
-      "title": "ArchiveBox",
-      "tagline": "Selbst gehostete Internet-Archivierungslösung"
+      "tagline": "Selbst gehostete Internet-Archivierungslösung",
+      "title": "ArchiveBox"
     },
     {
       "id": "org.icewhale.audiobookshelf",
@@ -60,13 +60,13 @@
     },
     {
       "id": "org.icewhale.copyparty",
-      "title": "CopyParty",
-      "tagline": "Ein einfacher, privater Dateiserver."
+      "tagline": "Ein einfacher, privater Dateiserver.",
+      "title": "CopyParty"
     },
     {
       "id": "org.icewhale.deepseekocrnvidia",
-      "title": "DeepSeek OCR(Nvidia GPU)",
-      "tagline": "Leistungsstarkes OCR mit DeepSeek AI"
+      "tagline": "Leistungsstarkes OCR mit DeepSeek AI",
+      "title": "DeepSeek OCR(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.deluge",
@@ -122,8 +122,8 @@
     },
     {
       "id": "org.icewhale.frigate",
-      "title": "Frigate",
-      "tagline": "Überwachen Sie Ihre Sicherheitskameras mit lokal verarbeiteter KI"
+      "tagline": "Überwachen Sie Ihre Sicherheitskameras mit lokal verarbeiteter KI",
+      "title": "Frigate"
     },
     {
       "id": "org.icewhale.gitea",
@@ -159,13 +159,13 @@
     },
     {
       "id": "org.icewhale.indextts",
-      "title": "Index-TTS",
-      "tagline": "Ein kontrollierbares und effizientes Zero-Shot-Text-zu-Sprache-System auf Industrieniveau"
+      "tagline": "Ein kontrollierbares und effizientes Zero-Shot-Text-zu-Sprache-System auf Industrieniveau",
+      "title": "Index-TTS"
     },
     {
       "id": "org.icewhale.indexttsnvidia",
-      "title": "Index-TTS(Nvidia GPU)",
-      "tagline": "Ein kontrollierbares und effizientes Zero-Shot-Text-zu-Sprache-System auf Industrieniveau"
+      "tagline": "Ein kontrollierbares und effizientes Zero-Shot-Text-zu-Sprache-System auf Industrieniveau",
+      "title": "Index-TTS(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.jackett",
@@ -201,8 +201,8 @@
     },
     {
       "id": "org.icewhale.langflow",
-      "title": "Langflow",
-      "tagline": "Open-Source-Oberfläche zum Erstellen und Debuggen von Multi-Agenten- und RAG-Anwendungen"
+      "tagline": "Open-Source-Oberfläche zum Erstellen und Debuggen von Multi-Agenten- und RAG-Anwendungen",
+      "title": "Langflow"
     },
     {
       "id": "org.icewhale.lazylibrarian",
@@ -210,8 +210,8 @@
     },
     {
       "id": "org.icewhale.librechat",
-      "title": "LibreChat",
-      "tagline": "Eine vollständig ausgestattete Open-Source-AI-Chat-Schnittstelle"
+      "tagline": "Eine vollständig ausgestattete Open-Source-AI-Chat-Schnittstelle",
+      "title": "LibreChat"
     },
     {
       "id": "org.icewhale.lidarr",
@@ -219,18 +219,18 @@
     },
     {
       "id": "org.icewhale.linkwarden",
-      "title": "Linkwarden",
-      "tagline": "Selbstgehosteter kollaborativer Lesezeichen-Manager zum Sammeln, Lesen, Kommentieren und vollständigen Bewahren wichtiger Inhalte an einem Ort."
+      "tagline": "Selbstgehosteter kollaborativer Lesezeichen-Manager zum Sammeln, Lesen, Kommentieren und vollständigen Bewahren wichtiger Inhalte an einem Ort.",
+      "title": "Linkwarden"
     },
     {
       "id": "org.icewhale.llamacpp",
-      "title": "llama.cpp",
-      "tagline": "GGUF-LLMs lokal mit GPU-Beschleunigung ausführen"
+      "tagline": "GGUF-LLMs lokal mit GPU-Beschleunigung ausführen",
+      "title": "llama.cpp"
     },
     {
       "id": "org.icewhale.llamafactorynvidia",
-      "title": "LLaMA Factory(Nvidia GPU)",
-      "tagline": "Einheitliche LLM-Feinabstimmung mit 100+ Modellen"
+      "tagline": "Einheitliche LLM-Feinabstimmung mit 100+ Modellen",
+      "title": "LLaMA Factory(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.lyrionmusicserver",
@@ -242,8 +242,8 @@
     },
     {
       "id": "org.icewhale.maybe",
-      "title": "Maybe",
-      "tagline": "Anwendung zur persönlichen Finanzverwaltung"
+      "tagline": "Anwendung zur persönlichen Finanzverwaltung",
+      "title": "Maybe"
     },
     {
       "id": "org.icewhale.memos",
@@ -307,8 +307,8 @@
     },
     {
       "id": "org.icewhale.openclaw",
-      "title": "OpenClaw",
-      "tagline": "OpenClaw ist ein persönlicher KI-Assistent, den Sie auf Ihren eigenen Geräten ausführen."
+      "tagline": "OpenClaw ist ein persönlicher KI-Assistent, den Sie auf Ihren eigenen Geräten ausführen.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhab",
@@ -316,8 +316,8 @@
     },
     {
       "id": "org.icewhale.openhands",
-      "title": "OpenHands",
-      "tagline": "Open-Source-KI-gestützter Codierungsassistent"
+      "tagline": "Open-Source-KI-gestützter Codierungsassistent",
+      "title": "OpenHands"
     },
     {
       "id": "org.icewhale.openlist",
@@ -333,8 +333,8 @@
     },
     {
       "id": "org.icewhale.opodsync",
-      "title": "oPodSync",
-      "tagline": "Podcast-Synchronisationsdienst"
+      "tagline": "Podcast-Synchronisationsdienst",
+      "title": "oPodSync"
     },
     {
       "id": "org.icewhale.overseerr",
@@ -346,8 +346,8 @@
     },
     {
       "id": "org.icewhale.peanut",
-      "title": "PeaNUT",
-      "tagline": "UPS-Überwachungs- und Stromausfallbenachrichtigungssystem"
+      "tagline": "UPS-Überwachungs- und Stromausfallbenachrichtigungssystem",
+      "title": "PeaNUT"
     },
     {
       "id": "org.icewhale.petio",
@@ -367,8 +367,8 @@
     },
     {
       "id": "org.icewhale.pingvinshare",
-      "title": "Pingvin-Share",
-      "tagline": "Selbst gehostete Dateifreigabe mit modernem Web-Interface"
+      "tagline": "Selbst gehostete Dateifreigabe mit modernem Web-Interface",
+      "title": "Pingvin-Share"
     },
     {
       "id": "org.icewhale.playitagent",
@@ -388,8 +388,8 @@
     },
     {
       "id": "org.icewhale.psitransfer",
-      "title": "PsiTransfer",
-      "tagline": "Ein einfacher, quelloffener Dateifreigabe-Host."
+      "tagline": "Ein einfacher, quelloffener Dateifreigabe-Host.",
+      "title": "PsiTransfer"
     },
     {
       "id": "org.icewhale.qbittorrent",
@@ -401,8 +401,8 @@
     },
     {
       "id": "org.icewhale.ragflow",
-      "title": "RagFlow",
-      "tagline": "RagFlow ist eine Open-Source-RAG-Engine, die auf tiefem Dokumentenverständnis basiert."
+      "tagline": "RagFlow ist eine Open-Source-RAG-Engine, die auf tiefem Dokumentenverständnis basiert.",
+      "title": "RagFlow"
     },
     {
       "id": "org.icewhale.readarr",
@@ -422,8 +422,8 @@
     },
     {
       "id": "org.icewhale.roonserver",
-      "title": "Roon Server",
-      "tagline": "Musiksoftware, die Ihr Hörerlebnis verändert"
+      "tagline": "Musiksoftware, die Ihr Hörerlebnis verändert",
+      "title": "Roon Server"
     },
     {
       "id": "org.icewhale.sabnzbd",
@@ -447,8 +447,8 @@
     },
     {
       "id": "org.icewhale.sure",
-      "title": "Sure",
-      "tagline": "Anwendung zur persönlichen Finanzverwaltung"
+      "tagline": "Anwendung zur persönlichen Finanzverwaltung",
+      "title": "Sure"
     },
     {
       "id": "org.icewhale.swingmusic",
@@ -468,8 +468,8 @@
     },
     {
       "id": "org.icewhale.teable",
-      "title": "Teable",
-      "tagline": "Teable verwendet eine prägnante Tabellenkalkulationsoberfläche, erstellt aber leistungsstarke Datenbankanwendungen"
+      "tagline": "Teable verwendet eine prägnante Tabellenkalkulationsoberfläche, erstellt aber leistungsstarke Datenbankanwendungen",
+      "title": "Teable"
     },
     {
       "id": "org.icewhale.transmission",
@@ -481,8 +481,8 @@
     },
     {
       "id": "org.icewhale.turbodiffusionnvidia",
-      "title": "TurboDiffusion(Nvidia GPU)",
-      "tagline": "Ein Beschleunigungsframework für die End-to-End-Diffusionsgenerierung bei gleichbleibender Videoqualität"
+      "tagline": "Ein Beschleunigungsframework für die End-to-End-Diffusionsgenerierung bei gleichbleibender Videoqualität",
+      "title": "TurboDiffusion(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.unificontroller",
@@ -518,8 +518,8 @@
     },
     {
       "id": "org.icewhale.weknora",
-      "title": "WeKnora",
-      "tagline": "WeKnora ist ein LLM-gestütztes Framework für tiefes Dokumentenverständnis und semantischen Abruf, speziell entwickelt für komplexe, heterogene Dokumente."
+      "tagline": "WeKnora ist ein LLM-gestütztes Framework für tiefes Dokumentenverständnis und semantischen Abruf, speziell entwickelt für komplexe, heterogene Dokumente.",
+      "title": "WeKnora"
     },
     {
       "id": "org.icewhale.wgeasy",
