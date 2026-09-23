@@ -45,49 +45,13 @@ x-casaos:
   update_at: "2026-02-08"
   release_notes:
     en_US: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
+      - v5.4.211 avoids a denial-of-service issue in the version check.
       - It improves JSON display, generated values, exports, database support, and plugins.
     en_GB: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    it_IT: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    nb_NO: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
+      - v5.4.211 avoids a denial-of-service issue in the version check.
       - It improves JSON display, generated values, exports, database support, and plugins.
     zh_CN: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    ja_JP: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    ko_KR: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    fr_FR: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    de_DE: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    sv_SE: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    el_GR: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    hr_HR: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    pt_PT: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    ru_RU: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
-      - It improves JSON display, generated values, exports, database support, and plugins.
-    tr_TR: |-
-      - v5.4.2 avoids a denial-of-service issue in the version check.
+      - v5.4.211 avoids a denial-of-service issue in the version check.
       - It improves JSON display, generated values, exports, database support, and plugins.
   website: "https://www.adminer.org"
   repo: "https://github.com/vrana/adminer"
