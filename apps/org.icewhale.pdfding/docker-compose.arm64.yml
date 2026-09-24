@@ -1,7 +1,7 @@
 name: pdfding
 services:
   pdfding:
-    image: mrmn/pdfding:v1.10.0@sha256:2d565f29f67cefbddae875ee75654e8d6a7b1d242acca892bc4e4da2a3bb7ce5
+    image: mrmn/pdfding:v1.11.0@sha256:f07a3417036b4a556b39cf4a67e2401530e5f7d5fe708efca1338f15b1cd3ab5
     deploy:
       resources:
         reservations:
@@ -34,4 +34,4 @@ x-casaos:
   scheme: http
   title:
     en_US: PdfDing
-  version: "1.7.5"
+  version: "1.7.6"
