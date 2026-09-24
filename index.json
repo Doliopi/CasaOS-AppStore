@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T10:02:56Z",
+  "updated_at": "2026-09-24T03:18:56Z",
   "app_count": 174,
   "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "apps": [
@@ -2520,8 +2520,8 @@
       "thumbnail": "",
       "compose_url": "/apps/org.icewhale.pdfding/docker-compose.yml",
       "meta_url": "/apps/org.icewhale.pdfding/meta.json",
-      "content_hash": "dbf64ec0",
-      "version": "1.7.2"
+      "content_hash": "333e791f",
+      "version": "1.7.3"
     },
     {
       "id": "org.icewhale.peanut",
