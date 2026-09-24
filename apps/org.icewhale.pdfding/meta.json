@@ -26,13 +26,13 @@
   "release_note": "- v1.7.2 updates dependencies for a security update.\n- The mrmn/pdfding:v1.7.2 Docker image tag was published on 2026-04-12.",
   "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.pdfding",
-  "version": "1.7.6",
+  "version": "1.7.7",
   "categories": [
     "productivity"
   ],
   "min_memory": 134217728,
   "min_image_size": {
-    "amd64": 73611305,
-    "arm64": 71718669
+    "amd64": 73776881,
+    "arm64": 71888141
   }
 }
