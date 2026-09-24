@@ -1,7 +1,7 @@
 name: pdfding
 services:
   pdfding:
-    image: mrmn/pdfding:v1.7.2
+    image: mrmn/pdfding:v1.8.0
     deploy:
       resources:
         reservations:
@@ -269,7 +269,7 @@ x-casaos:
 
   title:
     en_US: PdfDing
-  version: "1.7.2"
+  version: "1.7.3"
   update_at: "2026-04-12"
   release_notes:
     en_US: |-
