@@ -1,7 +1,7 @@
 name: openlist
 services:
   openlist:
-    image: openlistteam/openlist:v4.2.5
+    image: openlistteam/openlist:v4.2.6
     container_name: openlist
     deploy:
       resources:
