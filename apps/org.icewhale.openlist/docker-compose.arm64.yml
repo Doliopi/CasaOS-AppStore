@@ -1,7 +1,7 @@
 name: openlist
 services:
   openlist:
-    image: openlistteam/openlist:v4.2.3@sha256:100d9c322eab711a1c69228783d26f36c884bfff842303f4cf4d1f761bb0aa9e
+    image: openlistteam/openlist:v4.2.4@sha256:337405ceeabf9eae2ccca6d2f6f7053364105441fca331713aabe27e82731e5e
     container_name: openlist
     deploy:
       resources:
