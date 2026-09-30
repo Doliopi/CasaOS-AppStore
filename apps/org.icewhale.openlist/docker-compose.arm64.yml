@@ -1,7 +1,7 @@
 name: openlist
 services:
   openlist:
-    image: openlistteam/openlist:v4.2.4@sha256:337405ceeabf9eae2ccca6d2f6f7053364105441fca331713aabe27e82731e5e
+    image: openlistteam/openlist:v4.2.5@sha256:ec101396e2f54dbffb10ce1ebbf77e68ab820ee4fa105c54a406dcc1cd597360
     container_name: openlist
     deploy:
       resources:
@@ -16,6 +16,9 @@ services:
         protocol: tcp
       - target: 5222
         published: "5222"
+        protocol: tcp
+      - target: 5277
+        published: "52272"
         protocol: tcp
     volumes:
       - type: bind
