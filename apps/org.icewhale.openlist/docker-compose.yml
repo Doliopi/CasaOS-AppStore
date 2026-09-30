@@ -1,7 +1,7 @@
 name: openlist
 services:
   openlist:
-    image: openlistteam/openlist:v4.2.2
+    image: openlistteam/openlist:v4.2.3
     container_name: openlist
     deploy:
       resources:
@@ -11,16 +11,23 @@ services:
     restart: unless-stopped
     user: "999:1000"
     ports:
-      - target: 5244
+      - target: 52844
         published: "5244"
+        protocol: tcp
+      - target: 5222
+        published: "5222"
         protocol: tcp
     volumes:
       - type: bind
         source: /DATA/AppData/$AppID/data
         target: /opt/openlist/data
+      - type: bind
+        source: /DATA/AppData
+        target: /oplist
     environment:
       UMASK: "022"
-      OPENLIST_ADMIN_PASSWORD: "casaos"
+      OPENLIST_ADMIN_PASSWORD: "casa8os1"
+      dsfs: "fdvdf"
 x-casaos:
   id: org.icewhale.openlist
   main: openlist
@@ -30,4 +37,4 @@ x-casaos:
   index: /
   title:
     en_US: OpenList
-  version: "4.2.2"
+  version: "4.2.3"
