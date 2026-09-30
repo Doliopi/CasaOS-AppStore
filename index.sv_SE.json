@@ -18,8 +18,8 @@
     },
     {
       "id": "org.icewhale.archivebox",
-      "title": "ArchiveBox",
-      "tagline": "Självhostad internetarkiveringslösning"
+      "tagline": "Självhostad internetarkiveringslösning",
+      "title": "ArchiveBox"
     },
     {
       "id": "org.icewhale.audiobookshelf",
@@ -55,13 +55,13 @@
     },
     {
       "id": "org.icewhale.copyparty",
-      "title": "CopyParty",
-      "tagline": "En enkel, privat filserver."
+      "tagline": "En enkel, privat filserver.",
+      "title": "CopyParty"
     },
     {
       "id": "org.icewhale.deepseekocrnvidia",
-      "title": "DeepSeek OCR(Nvidia GPU)",
-      "tagline": "Kraftfull OCR drivet av DeepSeek AI"
+      "tagline": "Kraftfull OCR drivet av DeepSeek AI",
+      "title": "DeepSeek OCR(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.deluge",
@@ -149,13 +149,13 @@
     },
     {
       "id": "org.icewhale.indextts",
-      "title": "Index-TTS",
-      "tagline": "Ett kontrollerbart och effektivt zero-shot text-till-tal-system på industrinivå"
+      "tagline": "Ett kontrollerbart och effektivt zero-shot text-till-tal-system på industrinivå",
+      "title": "Index-TTS"
     },
     {
       "id": "org.icewhale.indexttsnvidia",
-      "title": "Index-TTS(Nvidia GPU)",
-      "tagline": "Ett kontrollerbart och effektivt zero-shot text-till-tal-system på industrinivå"
+      "tagline": "Ett kontrollerbart och effektivt zero-shot text-till-tal-system på industrinivå",
+      "title": "Index-TTS(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.jackett",
@@ -191,8 +191,8 @@
     },
     {
       "id": "org.icewhale.langflow",
-      "title": "Langflow",
-      "tagline": "Open source-gränssnitt för att bygga och felsöka multi-agent och RAG-applikationer"
+      "tagline": "Open source-gränssnitt för att bygga och felsöka multi-agent och RAG-applikationer",
+      "title": "Langflow"
     },
     {
       "id": "org.icewhale.lazylibrarian",
@@ -200,8 +200,8 @@
     },
     {
       "id": "org.icewhale.librechat",
-      "title": "LibreChat",
-      "tagline": "Ett fullfjädrat, öppen källkod AI-chattgränssnitt"
+      "tagline": "Ett fullfjädrat, öppen källkod AI-chattgränssnitt",
+      "title": "LibreChat"
     },
     {
       "id": "org.icewhale.lidarr",
@@ -209,18 +209,18 @@
     },
     {
       "id": "org.icewhale.linkwarden",
-      "title": "Linkwarden",
-      "tagline": "Självhostad samarbetsbaserad bokmärkeshanterare för att samla, läsa, annotera och bevara det som är viktigt på ett och samma ställe."
+      "tagline": "Självhostad samarbetsbaserad bokmärkeshanterare för att samla, läsa, annotera och bevara det som är viktigt på ett och samma ställe.",
+      "title": "Linkwarden"
     },
     {
       "id": "org.icewhale.llamacpp",
-      "title": "llama.cpp",
-      "tagline": "Kör GGUF-LLM:er lokalt med GPU-acceleration"
+      "tagline": "Kör GGUF-LLM:er lokalt med GPU-acceleration",
+      "title": "llama.cpp"
     },
     {
       "id": "org.icewhale.llamafactorynvidia",
-      "title": "LLaMA Factory(Nvidia GPU)",
-      "tagline": "Enhetlig LLM-finjustering med 100+ modeller"
+      "tagline": "Enhetlig LLM-finjustering med 100+ modeller",
+      "title": "LLaMA Factory(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.lyrionmusicserver",
@@ -232,8 +232,8 @@
     },
     {
       "id": "org.icewhale.maybe",
-      "title": "Maybe",
-      "tagline": "Applikation för personlig finanshantering"
+      "tagline": "Applikation för personlig finanshantering",
+      "title": "Maybe"
     },
     {
       "id": "org.icewhale.memos",
@@ -293,8 +293,8 @@
     },
     {
       "id": "org.icewhale.openhands",
-      "title": "OpenHands",
-      "tagline": "Open source AI-driven kodningsassistent"
+      "tagline": "Open source AI-driven kodningsassistent",
+      "title": "OpenHands"
     },
     {
       "id": "org.icewhale.openlist",
@@ -310,8 +310,8 @@
     },
     {
       "id": "org.icewhale.opodsync",
-      "title": "oPodSync",
-      "tagline": "Podcast-synkroniseringstjänst"
+      "tagline": "Podcast-synkroniseringstjänst",
+      "title": "oPodSync"
     },
     {
       "id": "org.icewhale.overseerr",
@@ -323,8 +323,8 @@
     },
     {
       "id": "org.icewhale.peanut",
-      "title": "PeaNUT",
-      "tagline": "UPS övervakning och strömavbrott notifikationssystem"
+      "tagline": "UPS övervakning och strömavbrott notifikationssystem",
+      "title": "PeaNUT"
     },
     {
       "id": "org.icewhale.photoprism",
@@ -340,8 +340,8 @@
     },
     {
       "id": "org.icewhale.pingvinshare",
-      "title": "Pingvin-Share",
-      "tagline": "Självhostad fildelning med ett modernt webbgränssnitt"
+      "tagline": "Självhostad fildelning med ett modernt webbgränssnitt",
+      "title": "Pingvin-Share"
     },
     {
       "id": "org.icewhale.playitagent",
@@ -361,8 +361,8 @@
     },
     {
       "id": "org.icewhale.psitransfer",
-      "title": "PsiTransfer",
-      "tagline": "En enkel, öppen källkods-fildelningsvärd."
+      "tagline": "En enkel, öppen källkods-fildelningsvärd.",
+      "title": "PsiTransfer"
     },
     {
       "id": "org.icewhale.qbittorrent",
@@ -374,8 +374,8 @@
     },
     {
       "id": "org.icewhale.ragflow",
-      "title": "RagFlow",
-      "tagline": "RagFlow är en öppen källkods RAG-motor baserad på djup dokumentförståelse."
+      "tagline": "RagFlow är en öppen källkods RAG-motor baserad på djup dokumentförståelse.",
+      "title": "RagFlow"
     },
     {
       "id": "org.icewhale.readarr",
@@ -415,8 +415,8 @@
     },
     {
       "id": "org.icewhale.sure",
-      "title": "Sure",
-      "tagline": "Applikation för personlig finanshantering"
+      "tagline": "Applikation för personlig finanshantering",
+      "title": "Sure"
     },
     {
       "id": "org.icewhale.swingmusic",
@@ -436,8 +436,8 @@
     },
     {
       "id": "org.icewhale.teable",
-      "title": "Teable",
-      "tagline": "Teable använder ett koncisst kalkylbladgränssnitt, men skapar kraftfulla databasapplikationer"
+      "tagline": "Teable använder ett koncisst kalkylbladgränssnitt, men skapar kraftfulla databasapplikationer",
+      "title": "Teable"
     },
     {
       "id": "org.icewhale.transmission",
@@ -449,8 +449,8 @@
     },
     {
       "id": "org.icewhale.turbodiffusionnvidia",
-      "title": "TurboDiffusion(Nvidia GPU)",
-      "tagline": "Ett accelerationsramverk för end-to-end-diffusionsgenerering med bibehållen videokvalitet"
+      "tagline": "Ett accelerationsramverk för end-to-end-diffusionsgenerering med bibehållen videokvalitet",
+      "title": "TurboDiffusion(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.unificontroller",
@@ -486,8 +486,8 @@
     },
     {
       "id": "org.icewhale.weknora",
-      "title": "WeKnora",
-      "tagline": "WeKnora är ett LLM-baserat ramverk designat för djup dokumentförståelse och semantisk hämtning, särskilt för hantering av komplexa och heterogena dokument."
+      "tagline": "WeKnora är ett LLM-baserat ramverk designat för djup dokumentförståelse och semantisk hämtning, särskilt för hantering av komplexa och heterogena dokument.",
+      "title": "WeKnora"
     },
     {
       "id": "org.icewhale.wgeasy",

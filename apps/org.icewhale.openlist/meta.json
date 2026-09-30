@@ -27,14 +27,14 @@
   "release_note": "- v4.2.2 includes breaking cache changes by extracting the hybrid_cache package.\n- Includes upstream fixes and maintenance from the 4.2.2 release.\n- Review the upstream release notes before upgrading existing custom cache integrations.",
   "base_url": "https://raw.githubusercontent.com/Doliopi/CasaOS-AppStore/refs/heads/gh-pages",
   "id": "org.icewhale.openlist",
-  "version": "4.2.5",
+  "version": "4.1.0",
   "categories": [
     "productivity"
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 58305456,
-    "arm": 55827499,
-    "arm64": 56258406
+    "amd64": 54155111,
+    "arm": 51722107,
+    "arm64": 52953104
   }
 }
