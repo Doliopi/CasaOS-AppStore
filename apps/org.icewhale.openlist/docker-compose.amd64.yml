@@ -1,7 +1,7 @@
 name: openlist
 services:
   openlist:
-    image: openlistteam/openlist:v4.1.0@sha256:d8d0a92d0a11eba01dd9f31e42c754a3042db70ff09dbab1d4dbcc0f55092d2d
+    image: openlistteam/openlist:v4.1.1@sha256:3a7421db41433f5606dbb5b70ecb08bb746d5f0da5c82cd60611099fce89e6cb
     container_name: openlist
     deploy:
       resources:
@@ -40,4 +40,4 @@ x-casaos:
   index: /
   title:
     en_US: OpenList
-  version: "4.1.0"
+  version: "4.1.1"

@@ -1,7 +1,7 @@
 name: openlist
 services:
   openlist:
-    image: openlistteam/openlist:v4.1.0
+    image: openlistteam/openlist:v4.1.1
     container_name: openlist
     deploy:
       resources:
@@ -40,4 +40,4 @@ x-casaos:
   index: /
   title:
     en_US: OpenList
-  version: "4.1.0"
+  version: "4.1.1"
