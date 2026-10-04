@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "Personvernsfokusert økonomiapp med konvoluttbudsjettering og flerenhetssynkronisering."
+    },
+    {
       "id": "org.icewhale.alist",
       "tagline": "Monter skylagringsstasjonen din på hjemme-NAS-en"
     },
@@ -50,6 +54,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "Samarbeidsredigerer for dokumenter i sanntid"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "Virtuell tavle for å skissere håndtegnede diagrammer"
     },
     {
       "id": "org.icewhale.flowise",
@@ -166,6 +174,11 @@
     {
       "id": "org.icewhale.ollamanvidia",
       "tagline": "Kom i gang med store språkmodeller lokalt"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw er en personlig AI-assistent du kjører på dine egne enheter.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhands",

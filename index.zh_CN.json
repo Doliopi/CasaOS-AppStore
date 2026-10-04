@@ -9,6 +9,10 @@
       "tagline": "一个用于管理您的两步验证（2FA）帐户并生成其安全代码的Web应用程序"
     },
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "隐私优先的财务应用，支持信封预算和多设备同步。"
+    },
+    {
       "id": "org.icewhale.adguardhome",
       "tagline": "在网络侧阻止广告和跟踪"
     },
@@ -151,6 +155,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "实时协作文档编辑器"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "用于绘制手绘风格图表的虚拟白板"
     },
     {
       "id": "org.icewhale.filedrop",
@@ -425,6 +433,11 @@
     {
       "id": "org.icewhale.ombi",
       "tagline": "友好的媒体请求工具，自动与您的媒体服务器同步！"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw 是一个您在自己的设备上运行的个人 AI 助手。",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhab",

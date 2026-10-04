@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "Privacy-first finance app with envelope budgeting and multi-device sync."
+    },
+    {
       "id": "org.icewhale.alist",
       "tagline": "Mount your cloud drive on your home NAS"
     },
@@ -51,6 +55,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "Real-time collaborative document editor"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "Virtual whiteboard for sketching hand-drawn like diagrams"
     },
     {
       "id": "org.icewhale.flowise",
@@ -171,6 +179,11 @@
     {
       "id": "org.icewhale.ollamanvidia",
       "tagline": "Get up and running with large language models locally"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw is a personal AI assistant you run on your own devices",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhands",

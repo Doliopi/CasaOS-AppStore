@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "Aplicação financeira que prioriza privacidade com orçamentação por envelopes e sincronização multi-dispositivos."
+    },
+    {
       "id": "org.icewhale.alist",
       "tagline": "Monte o seu disco na nuvem no seu NAS doméstico"
     },
@@ -50,6 +54,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "Editor colaborativo de documentos em tempo real"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "Quadro branco virtual para esboçar diagramas estilo desenho à mão"
     },
     {
       "id": "org.icewhale.flowise",
@@ -166,6 +174,11 @@
     {
       "id": "org.icewhale.ollamanvidia",
       "tagline": "Execute grandes modelos de linguagem localmente"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw é um assistente de IA pessoal que executa nos seus próprios dispositivos.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhands",

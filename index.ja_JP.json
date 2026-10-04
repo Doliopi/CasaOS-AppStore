@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "プライバシー重視の家計管理アプリ、封筒予算と複数デバイス同期対応。"
+    },
+    {
       "id": "org.icewhale.alist",
       "tagline": "クラウドドライブをホームNASにマウント"
     },
@@ -55,6 +59,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "リアルタイム共同文書エディタ"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "手描き風ダイアグラムをスケッチするための仮想ホワイトボード"
     },
     {
       "id": "org.icewhale.flowise",
@@ -180,6 +188,11 @@
     {
       "id": "org.icewhale.ollamanvidia",
       "tagline": "大規模言語モデルをローカルで実行"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClawは、ご自身のデバイスで実行するパーソナルAIアシスタントです。",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhands",

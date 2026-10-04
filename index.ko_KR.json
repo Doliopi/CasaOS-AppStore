@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "프라이버시 우선 재정 관리 앱, 봉투 예산 및 다중 기기 동기화 지원."
+    },
+    {
       "id": "org.icewhale.alist",
       "tagline": "클라우드 드라이브를 홈 NAS에 마운트"
     },
@@ -50,6 +54,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "실시간 협업 문서 편집기"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "손으로 그린 것 같은 다이어그램을 스케치하기 위한 가상 화이트보드"
     },
     {
       "id": "org.icewhale.filedrop",
@@ -175,6 +183,11 @@
     {
       "id": "org.icewhale.ollamanvidia",
       "tagline": "로컬에서 대형 언어 모델 실행"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw은 사용자의 기기에서 실행되는 개인 AI 비서입니다.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhands",

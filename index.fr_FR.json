@@ -5,6 +5,10 @@
       "tagline": "Une application Web pour gérer vos comptes d'authentification à deux facteurs (2FA) et générer leurs codes de sécurité"
     },
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "Application financière axée sur la confidentialité avec budgétisation par enveloppes et synchronisation multi-appareils."
+    },
+    {
       "id": "org.icewhale.adguardhome",
       "tagline": "Serveur DNS de blocage de publicités et de traqueurs sur tout le réseau"
     },
@@ -98,6 +102,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "Éditeur de documents collaboratif en temps réel"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "Tableau blanc virtuel pour dessiner des diagrammes style main levée"
     },
     {
       "id": "org.icewhale.filedrop",
@@ -303,6 +311,11 @@
     {
       "id": "org.icewhale.ombi",
       "tagline": "Outil de demande de médias amical, synchronise automatiquement avec vos serveurs multimédia!"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw est un assistant IA personnel que vous exécutez sur vos propres appareils.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhab",

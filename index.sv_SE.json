@@ -5,6 +5,10 @@
       "tagline": "En webbapp för att hantera dina tvåfaktorsautentiserings (2FA) -konton och generera deras säkerhetskoder"
     },
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "Integritetscentrerad ekonomiapp med kuvertbudgetering och flerfunktssynkronisering."
+    },
+    {
       "id": "org.icewhale.adguardhome",
       "tagline": "Nätverksnivå DNS-server för att blockera annonser och spårare"
     },
@@ -98,6 +102,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "Samarbetseditor för dokument i realtid"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "Virtuell whiteboard för att skissa handritade diagram"
     },
     {
       "id": "org.icewhale.filedrop",
@@ -286,6 +294,11 @@
     {
       "id": "org.icewhale.ombi",
       "tagline": "Vänlig mediaförfrågan, synkroniserar automatiskt med dina mediaservrar!"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "OpenClaw är en personlig AI-assistent som du kör på dina egna enheter.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhab",

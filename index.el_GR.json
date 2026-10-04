@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "org.icewhale.actualbudget",
+      "tagline": "Εφαρμογή οικονομικών που δίνει προτεραιότητα στην ιδιωτικότητα με προϋπολογισμό φακέλων και συγχρονισμό πολλαπλών συσκευών."
+    },
+    {
       "id": "org.icewhale.alist",
       "tagline": "Τοποθετήστε τη μονάδα cloud σας στο οικιακό σας NAS"
     },
@@ -50,6 +54,10 @@
     {
       "id": "org.icewhale.etherpad",
       "tagline": "Επεξεργαστής συνεργατικών εγγράφων σε πραγματικό χρόνο"
+    },
+    {
+      "id": "org.icewhale.excalidraw",
+      "tagline": "Εικονικός πίνακας για σκίτσα διαγραμμάτων χειροποίητου στυλ"
     },
     {
       "id": "org.icewhale.flowise",
@@ -166,6 +174,11 @@
     {
       "id": "org.icewhale.ollamanvidia",
       "tagline": "Ξεκινήστε με μεγάλα γλωσσικά μοντέλα τοπικά"
+    },
+    {
+      "id": "org.icewhale.openclaw",
+      "tagline": "Το OpenClaw είναι ένας προσωπικός βοηθός τεχνητής νοημοσύνης που εκτελείτε στις δικές σας συσκευές.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhands",
