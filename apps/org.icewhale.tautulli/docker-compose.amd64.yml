@@ -5,7 +5,7 @@ services:
       PGID: "1000"
       PUID: "1000"
       TZ: Europe/London
-    image: linuxserver/tautulli:2.18.0@sha256:01d494167b0c9ce633648ac9c9377cce376ad851b6289039bae72f51a6d2041c
+    image: linuxserver/tautulli:2.17.1@sha256:c4ddbba61369a1dfec0373826fe2dba748ce2d04340d862cadfe1da21c651ee9
     deploy:
       resources:
         reservations:
@@ -28,4 +28,4 @@ x-casaos:
     en_US: Tautulli
   index: /
   port_map: "8181"
-  version: "2.18.0"
+  version: "2.17.1"
